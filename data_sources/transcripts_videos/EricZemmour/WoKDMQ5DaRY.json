@@ -1,0 +1,517 @@
+[
+    {
+        "text": "Mes chers compatriotes.",
+        "start": 0.0,
+        "duration": 2.0
+    },
+    {
+        "text": "Je veux aborder un sujet de la plus haute importance.",
+        "start": 2.0,
+        "duration": 3.5
+    },
+    {
+        "text": "Ce sujet, je dois vous l\u2019avouer, m\u2019obs\u00e8de.",
+        "start": 5.5,
+        "duration": 3.0
+    },
+    {
+        "text": "Mes adversaires l\u2019\u00e9voquent de temps en temps, bien entendu,",
+        "start": 8.5,
+        "duration": 3.35
+    },
+    {
+        "text": "mais comme une formalit\u00e9.",
+        "start": 11.85,
+        "duration": 1.65
+    },
+    {
+        "text": "Pour moi, c\u2019est un probl\u00e8me majeur, qui en dit tr\u00e8s long sur l\u2019\u00e9tat de notre pays,",
+        "start": 13.5,
+        "duration": 5.1
+    },
+    {
+        "text": "sur la souffrance de notre peuple, et qui met en danger notre d\u00e9mocratie.",
+        "start": 18.6,
+        "duration": 5.2
+    },
+    {
+        "text": "Je veux m\u2019adresser \u00e0 tous nos compatriotes qui ne votent plus.",
+        "start": 23.8,
+        "duration": 4.12
+    },
+    {
+        "text": "Les abstentionnistes sont g\u00e9n\u00e9ralement pr\u00e9sent\u00e9s comme des marginaux, des paresseux, de mauvais citoyens.",
+        "start": 27.92,
+        "duration": 7.98
+    },
+    {
+        "text": "Les journalistes et les politiciens parlent d\u2019eux comme d\u2019une horde d\u2019ind\u00e9cis,",
+        "start": 35.9,
+        "duration": 4.65
+    },
+    {
+        "text": "de sans-opinion, d\u2019illettr\u00e9s de la d\u00e9mocratie.",
+        "start": 40.55,
+        "duration": 3.45
+    },
+    {
+        "text": "C\u2019est une immense injustice que je veux r\u00e9parer.",
+        "start": 44.0,
+        "duration": 3.5
+    },
+    {
+        "text": "Depuis vingt ans, j\u2019observe les abstentionnistes et je les comprends.",
+        "start": 47.5,
+        "duration": 4.7
+    },
+    {
+        "text": "Je veux leur dire : vous \u00eates lucides et vous \u00eates intelligents.",
+        "start": 52.2,
+        "duration": 4.2
+    },
+    {
+        "text": "Pourquoi refusez-vous de voter ?",
+        "start": 56.4,
+        "duration": 2.6
+    },
+    {
+        "text": "Parce que vous avez \u00e9t\u00e9 tromp\u00e9s.",
+        "start": 59.0,
+        "duration": 2.4
+    },
+    {
+        "text": "Parce que les d\u00e9magogues vous ont menti comme des arracheurs de dents.",
+        "start": 61.4,
+        "duration": 3.8
+    },
+    {
+        "text": "Parce que les technocrates vous ont ruin\u00e9 de mani\u00e8re syst\u00e9matique.",
+        "start": 65.2,
+        "duration": 4.15
+    },
+    {
+        "text": "Parce que les hommes et les femmes pour qui vous avez g\u00e9n\u00e9reusement vot\u00e9",
+        "start": 69.35,
+        "duration": 4.8
+    },
+    {
+        "text": "vous ont trahi de toutes les mani\u00e8res possibles.",
+        "start": 74.15,
+        "duration": 3.45
+    },
+    {
+        "text": "Vous avez le sentiment d\u2019avoir \u00e9t\u00e9 humili\u00e9s et d\u00e9shonor\u00e9s, et vous avez raison.",
+        "start": 77.6,
+        "duration": 6.2
+    },
+    {
+        "text": "Quand je regarde mon pays, quand je vois ce qu\u2019en ont fait les politiciens,",
+        "start": 83.8,
+        "duration": 3.9
+    },
+    {
+        "text": "quand je vois ce qu\u2019ils vous ont fait, ce qu\u2019ils nous ont fait,",
+        "start": 87.7,
+        "duration": 3.8
+    },
+    {
+        "text": "je me dis que votre chagrin est l\u00e9gitime, et que votre col\u00e8re est noble.",
+        "start": 91.5,
+        "duration": 4.3
+    },
+    {
+        "text": "Un abstentionniste est quelqu\u2019un qui a compris quelque chose d\u2019essentiel :",
+        "start": 95.8,
+        "duration": 4.7
+    },
+    {
+        "text": "quand elle n\u2019est pas sinc\u00e8re, la d\u00e9mocratie est laide.",
+        "start": 100.5,
+        "duration": 3.5
+    },
+    {
+        "text": "Quand elle n\u2019est pas fid\u00e8le \u00e0 ses promesses, elle est un pi\u00e8ge.",
+        "start": 104.0,
+        "duration": 3.6
+    },
+    {
+        "text": "Quand elle dit le contraire de ce qu\u2019elle pense, et quand elle fait le contraire de ce qu\u2019elle dit, elle est un scandale.",
+        "start": 107.6,
+        "duration": 6.1
+    },
+    {
+        "text": "Quand elle pi\u00e9tine tous les r\u00eaves qu\u2019on a plac\u00e9s en elle, elle ne m\u00e9rite pas seulement d\u2019\u00eatre critiqu\u00e9e :",
+        "start": 113.7,
+        "duration": 5.5
+    },
+    {
+        "text": "il faut la m\u00e9priser, la juger et la condamner \u00e0 rendre des comptes.",
+        "start": 119.2,
+        "duration": 5.8
+    },
+    {
+        "text": "C\u2019est le sens de ma candidature.",
+        "start": 125.0,
+        "duration": 2.66
+    },
+    {
+        "text": "Je suis celui qui dit : cette d\u00e9mocratie salie, malmen\u00e9e, viol\u00e9e jusque dans ses principes,",
+        "start": 127.66,
+        "duration": 5.64
+    },
+    {
+        "text": "cette farce institutionnelle a assez dur\u00e9.",
+        "start": 133.3,
+        "duration": 2.85
+    },
+    {
+        "text": "Rendons la d\u00e9mocratie, la vraie, la belle, l\u2019insolente, au peuple fran\u00e7ais qui la m\u00e9rite tant.",
+        "start": 136.15,
+        "duration": 6.25
+    },
+    {
+        "text": "Vous \u00eates si nombreux.",
+        "start": 142.4,
+        "duration": 2.3
+    },
+    {
+        "text": "Le premier parti de France, dit-on.",
+        "start": 144.7,
+        "duration": 2.2
+    },
+    {
+        "text": "Et c\u2019est vrai. Cela vous donne une id\u00e9e de votre puissance.",
+        "start": 146.9,
+        "duration": 3.46
+    },
+    {
+        "text": "Si vous le voulez, elle peut \u00eatre immense. Mais qui \u00eates-vous ?",
+        "start": 150.36,
+        "duration": 4.79
+    },
+    {
+        "text": "Vous avez 60 ans ?",
+        "start": 155.15,
+        "duration": 2.2
+    },
+    {
+        "text": "Autrefois, vous \u00e9tiez jeunes et plein d'illusions.",
+        "start": 157.35,
+        "duration": 2.0
+    },
+    {
+        "text": "Ah, le 10 mai 1981 !",
+        "start": 159.35,
+        "duration": 2.65
+    },
+    {
+        "text": "Quelle esp\u00e9rance !",
+        "start": 162.0,
+        "duration": 1.45
+    },
+    {
+        "text": "Mais Mitterrand, le cynique absolu, a pi\u00e9tin\u00e9 vos espoirs.",
+        "start": 163.45,
+        "duration": 4.15
+    },
+    {
+        "text": "Alors, plus tard, pour la plupart, vous \u00eates pass\u00e9s \u00e0 droite.",
+        "start": 167.6,
+        "duration": 3.9
+    },
+    {
+        "text": "Vous avez vot\u00e9 pour Jacques Chirac en 1995 parce qu\u2019il vous parlait de fracture sociale,",
+        "start": 171.5,
+        "duration": 5.0
+    },
+    {
+        "text": "et vous avez \u00e9t\u00e9 abandonn\u00e9s \u00e0 nouveau.",
+        "start": 176.5,
+        "duration": 2.4
+    },
+    {
+        "text": "De d\u00e9ception en d\u00e9ception, vous avez fini par voir de la trahison partout.",
+        "start": 178.9,
+        "duration": 5.1
+    },
+    {
+        "text": "Et vous n\u2019avez pas tort.",
+        "start": 184.0,
+        "duration": 1.85
+    },
+    {
+        "text": "Je la vois aussi.",
+        "start": 185.85,
+        "duration": 1.35
+    },
+    {
+        "text": "Vous avez 40 ans ?",
+        "start": 187.2,
+        "duration": 1.5
+    },
+    {
+        "text": "Vous \u00eates au milieu de la vie, et vous \u00eates d\u00e9j\u00e0 fatigu\u00e9 de la politique.",
+        "start": 188.7,
+        "duration": 4.5
+    },
+    {
+        "text": "Plus vous votez, plus la France va mal.",
+        "start": 193.2,
+        "duration": 2.8
+    },
+    {
+        "text": "Alors, les dimanches d\u2019\u00e9lections, vous pr\u00e9f\u00e9rez aller vous promener.",
+        "start": 196.0,
+        "duration": 4.2
+    },
+    {
+        "text": "Vous en avez assez. Et vous n\u2019avez pas tort. Moi aussi, j\u2019en ai assez.",
+        "start": 200.2,
+        "duration": 5.6
+    },
+    {
+        "text": "Vous avez 20 ans ?",
+        "start": 205.8,
+        "duration": 1.5
+    },
+    {
+        "text": "Un jour, en sortant de l\u2019\u00e9cole, vous vous \u00eates fait tabasser par des racailles.",
+        "start": 207.3,
+        "duration": 4.0
+    },
+    {
+        "text": "Votre m\u00e8re a demand\u00e9 de l\u2019aide aux \u00e9lus de la ville.",
+        "start": 211.3,
+        "duration": 2.2
+    },
+    {
+        "text": "Ils ont promis qu\u2019ils vous prot\u00e9geraient. Ils n\u2019ont rien fait.",
+        "start": 213.5,
+        "duration": 3.7
+    },
+    {
+        "text": "Ils ont prot\u00e9g\u00e9 la racaille. Vous vous \u00eates jur\u00e9 que vous ne voterez jamais.",
+        "start": 217.2,
+        "duration": 6.3
+    },
+    {
+        "text": "Je n\u2019oublie pas ceux qui s\u2019abstiennent parce qu\u2019ils ont vot\u00e9 sans s\u2019int\u00e9resser \u00e0 la politique,",
+        "start": 223.5,
+        "duration": 4.76
+    },
+    {
+        "text": "juste pour am\u00e9liorer un tout petit peu leur quotidien",
+        "start": 228.26,
+        "duration": 3.29
+    },
+    {
+        "text": "parce qu\u2019ils avaient cru dans une promesse \u00e9lectorale, et dont le sort a empir\u00e9.",
+        "start": 231.55,
+        "duration": 5.31
+    },
+    {
+        "text": "La veuve qui n\u2019arrive plus \u00e0 payer son loyer.",
+        "start": 236.86,
+        "duration": 2.64
+    },
+    {
+        "text": "L\u2019\u00e9tudiant qui parvient \u00e0 peine \u00e0 se nourrir.",
+        "start": 239.5,
+        "duration": 2.4
+    },
+    {
+        "text": "L\u2019habitant des banlieues auquel on avait promis le K\u00e4rcher",
+        "start": 241.9,
+        "duration": 3.7
+    },
+    {
+        "text": "et ils osent le lui promettre \u00e0 nouveau.",
+        "start": 245.6,
+        "duration": 3.1
+    },
+    {
+        "text": "Comment ne pas regarder en face votre d\u00e9go\u00fbt pour la d\u00e9mocratie ?",
+        "start": 248.7,
+        "duration": 4.35
+    },
+    {
+        "text": "Comment ne pas voir de la dignit\u00e9 dans votre refus ?",
+        "start": 253.05,
+        "duration": 3.95
+    },
+    {
+        "text": "Je n\u2019oublie pas non plus les Fran\u00e7ais qui ont vot\u00e9 \"non\"",
+        "start": 257.0,
+        "duration": 4.0
+    },
+    {
+        "text": "au r\u00e9f\u00e9rendum sur l\u2019Europe de 2005,",
+        "start": 261.0,
+        "duration": 2.3
+    },
+    {
+        "text": "et qui ont vu leurs suffrages an\u00e9antis par le pouvoir.",
+        "start": 263.3,
+        "duration": 3.5
+    },
+    {
+        "text": "Une insulte \u00e0 la d\u00e9mocratie, un viol de la volont\u00e9 populaire,",
+        "start": 266.8,
+        "duration": 4.0
+    },
+    {
+        "text": "une faute incroyablement grave de la part de l\u2019\u00c9tat,",
+        "start": 270.8,
+        "duration": 3.8
+    },
+    {
+        "text": "et que les abstentionnistes ne pardonneront jamais.",
+        "start": 274.6,
+        "duration": 3.4
+    },
+    {
+        "text": "Et qui osera leur donner tort ?",
+        "start": 278.0,
+        "duration": 3.2
+    },
+    {
+        "text": "Je dis \u00e0 tous les abstentionnistes : nous avons besoin de vous.",
+        "start": 281.2,
+        "duration": 4.4
+    },
+    {
+        "text": "De votre libert\u00e9. De votre col\u00e8re.",
+        "start": 285.6,
+        "duration": 2.2
+    },
+    {
+        "text": "Nous avons besoin de votre fiert\u00e9, et m\u00eame de votre orgueil et de votre insolence.",
+        "start": 287.8,
+        "duration": 4.8
+    },
+    {
+        "text": "Nous avons besoin de votre capacit\u00e9 \u00e0 dire non.",
+        "start": 292.6,
+        "duration": 4.06
+    },
+    {
+        "text": "La Reconqu\u00eate ne se fera pas sans vous.",
+        "start": 296.66,
+        "duration": 3.99
+    },
+    {
+        "text": "J\u2019aime votre ind\u00e9pendance. Elle ressemble tellement \u00e0 la mienne.",
+        "start": 300.65,
+        "duration": 4.05
+    },
+    {
+        "text": "J\u2019\u00e9prouve pour vous, je vous le dis, de la fraternit\u00e9.",
+        "start": 304.7,
+        "duration": 3.9
+    },
+    {
+        "text": "La fraternit\u00e9 de ceux qui ne sont pas du tout d\u2019accord avec les \u00e9lites politiques.",
+        "start": 308.6,
+        "duration": 4.6
+    },
+    {
+        "text": "La fraternit\u00e9 de ceux qui exigent beaucoup mieux.",
+        "start": 313.2,
+        "duration": 3.4
+    },
+    {
+        "text": "Avec plus de 25% d\u2019abstention au second tour en 2017,",
+        "start": 316.6,
+        "duration": 5.5
+    },
+    {
+        "text": "Emmanuel Macron est le Pr\u00e9sident de la R\u00e9publique le plus mal \u00e9lu",
+        "start": 322.1,
+        "duration": 3.9
+    },
+    {
+        "text": "depuis plus d\u2019un demi-si\u00e8cle.",
+        "start": 326.0,
+        "duration": 2.15
+    },
+    {
+        "text": "Il incarne les raisons pour lesquelles vous n\u2019avez pas vot\u00e9.",
+        "start": 328.15,
+        "duration": 3.85
+    },
+    {
+        "text": "Chassons-le ensemble.",
+        "start": 332.0,
+        "duration": 2.3
+    },
+    {
+        "text": "Si nous voulons redevenir la France, si nous voulons redevenir libres,",
+        "start": 334.3,
+        "duration": 3.9
+    },
+    {
+        "text": "responsables de notre destin, si nous voulons redevenir des citoyens,",
+        "start": 338.2,
+        "duration": 4.1
+    },
+    {
+        "text": "retrouver notre identit\u00e9, la s\u00e9curit\u00e9 et la prosp\u00e9rit\u00e9,",
+        "start": 342.3,
+        "duration": 3.7
+    },
+    {
+        "text": "c\u2019est l\u2019ann\u00e9e d\u00e9cisive, c\u2019est l\u2019ann\u00e9e de la Reconqu\u00eate ! - le moment ou jamais.",
+        "start": 346.0,
+        "duration": 5.0
+    },
+    {
+        "text": "Alors, chers amis abstentionnistes, pour une fois, abstenez-vous de vous abstenir,",
+        "start": 351.0,
+        "duration": 5.8
+    },
+    {
+        "text": "prenez vos cartes d\u2019\u00e9lecteurs, et renversons la fatalit\u00e9.",
+        "start": 356.8,
+        "duration": 3.7
+    },
+    {
+        "text": "Oui, c\u2019est possible, bien s\u00fbr que c\u2019est possible !",
+        "start": 360.5,
+        "duration": 2.8
+    },
+    {
+        "text": "Parce que c\u2019est vous et parce que c\u2019est moi.",
+        "start": 363.3,
+        "duration": 2.7
+    },
+    {
+        "text": "Impossible n\u2019est pas fran\u00e7ais, mes amis.",
+        "start": 366.0,
+        "duration": 2.3
+    },
+    {
+        "text": "Rendez-vous les 10 et 24 avril.",
+        "start": 368.3,
+        "duration": 2.2
+    },
+    {
+        "text": "Vous et moi, nous avons rendez-vous avec notre destin.",
+        "start": 370.5,
+        "duration": 3.65
+    },
+    {
+        "text": "Vive la vraie d\u00e9mocratie,",
+        "start": 374.15,
+        "duration": 1.55
+    },
+    {
+        "text": "vive la R\u00e9publique,",
+        "start": 375.7,
+        "duration": 1.15
+    },
+    {
+        "text": "et, surtout, vive la France !",
+        "start": 376.85,
+        "duration": 2.0
+    }
+]

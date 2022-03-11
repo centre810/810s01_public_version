@@ -1,0 +1,116 @@
+{ "dateRequete" : "2022/03/09", "candidat" : "Eric Piolle" , "parti" : "Inconnu" , "courant" : "vert", "YoutubeChannel" : {
+    "UCL2yCOZoelQCQ4iPH75mCNA": {
+        "channel_info": {
+            "title": "Eric Piolle",
+            "country": "Unknown",
+            "publishedAt": "2017-01-30T10:21:00Z",
+            "statistics": {
+                "viewCount": "168806",
+                "subscriberCount": "1180",
+                "hiddenSubscriberCount": false,
+                "videoCount": "123"
+            },
+            "channelcategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "video_data": {
+            "mAZytQbNLO4": {
+                "title": "Profession de foi d'\u00c9ric Piolle",
+                "publishedAt": "2021-09-07T17:12:13Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "mAZytQbNLO4",
+                "viewCount": "819",
+                "likeCount": "27",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT1M32S"
+            },
+            "KdSLEWL69Ho": {
+                "title": "J'endosse le r\u00f4le d'alli\u00e9 des luttes f\u00e9ministes",
+                "publishedAt": "2021-07-06T10:39:24Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "KdSLEWL69Ho",
+                "viewCount": "1149",
+                "likeCount": "21",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT2M25S"
+            },
+            "CdmI5lsGx78": {
+                "title": "Mobilisons-nous, pour l'\u00e9cologie, pour l'espoir \ud83d\udc9a",
+                "publishedAt": "2021-07-06T10:29:57Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "CdmI5lsGx78",
+                "viewCount": "314",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT25S"
+            },
+            "qTqnU155TPk": {
+                "title": "\u00c9lection Pr\u00e9sidentielle : je veux vous parler d'espoir",
+                "publishedAt": "2021-06-30T06:00:10Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "qTqnU155TPk",
+                "viewCount": "2236",
+                "likeCount": "143",
+                "favoriteCount": "0",
+                "commentCount": "5",
+                "duration": "PT7M45S"
+            },
+            "9Y6MJrDvo2s": {
+                "title": "2022 : la soci\u00e9t\u00e9 civile pour VRAIMENT changer la vie",
+                "publishedAt": "2021-04-14T20:13:04Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "9Y6MJrDvo2s",
+                "viewCount": "534",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT2H43M26S"
+            },
+            "ZJ2HjtkQK9o": {
+                "title": "L'\u00e9cologie c'est la sant\u00e9 !",
+                "publishedAt": "2021-02-25T07:45:44Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "ZJ2HjtkQK9o",
+                "viewCount": "317",
+                "likeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT1H24M20S"
+            },
+            "tl0ojTfm7gM": {
+                "title": "Industrie, monnaie, \u00e9conomie : pour une loi 100% climat",
+                "publishedAt": "2021-02-16T07:21:22Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "tl0ojTfm7gM",
+                "viewCount": "2025",
+                "likeCount": "49",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT1H29M25S"
+            },
+            "rtcBJNoUqXo": {
+                "title": "Une Certaine id\u00e9e de demain - Voeux 2021",
+                "publishedAt": "2021-01-22T09:42:06Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "rtcBJNoUqXo",
+                "viewCount": "546",
+                "likeCount": "21",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT1H27M"
+            }
+        }
+    }
+}}

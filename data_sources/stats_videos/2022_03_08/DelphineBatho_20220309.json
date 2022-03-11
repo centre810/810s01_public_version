@@ -1,0 +1,57 @@
+{ "dateRequete" : "2022/03/09", "candidat" : "Delphine Batho" , "parti" : "Inconnu" , "courant" : "vert", "YoutubeChannel" : {
+    "UCliNG9b7mXLfmhVdzQOc-XA": {
+        "channel_info": {
+            "title": "Delphine Batho",
+            "country": "Unknown",
+            "publishedAt": "2021-02-03T08:44:55.934811Z",
+            "statistics": {
+                "viewCount": "1711",
+                "subscriberCount": "67",
+                "hiddenSubscriberCount": false,
+                "videoCount": "3"
+            },
+            "channelcategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "video_data": {
+            "lLE-KPH56vc": {
+                "title": "La d\u00e9croissance, c'est notre drapeau !",
+                "publishedAt": "2021-07-11T22:37:15Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "lLE-KPH56vc",
+                "viewCount": "1271",
+                "likeCount": "55",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT35M38S"
+            },
+            "fpuwnHqbgyY": {
+                "title": "#PJLClimat Intervention \u00e0 l'ouverture du d\u00e9bat \u00e0 l'Assembl\u00e9e nationale",
+                "publishedAt": "2021-03-15T09:39:07Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "fpuwnHqbgyY",
+                "viewCount": "124",
+                "likeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT2M21S"
+            },
+            "5sT9YXTicME": {
+                "title": "C'est la re\u0301volte des filles et des femmes qui fera reculer l'islamisme.",
+                "publishedAt": "2021-02-03T09:19:45Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "5sT9YXTicME",
+                "viewCount": "316",
+                "likeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT5M48S"
+            }
+        }
+    }
+}}
