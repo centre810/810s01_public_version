@@ -1,0 +1,20 @@
+{ "dateRequete" : "2022/03/17", "candidat" : "Fabien Roussel" , "parti" : "Parti communiste français" , "courant" : "Extrême gauche", "YoutubeChannel" : {
+    "UCHQbUAkpnkf_Yg6-xAqj-ZA": {
+        "channel_info": {
+            "title": "Fabien Roussel",
+            "country": "Unknown",
+            "publishedAt": "2015-08-19T12:17:27Z",
+            "statistics": {
+                "viewCount": "4561",
+                "subscriberCount": "427",
+                "hiddenSubscriberCount": false,
+                "videoCount": "25"
+            },
+            "channelcategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "video_data": {}
+    }
+}}

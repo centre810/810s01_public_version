@@ -1,0 +1,655 @@
+{ "dateRequete" : "2021/12/06", "candidat" : "Valérie Pécresse" , "parti" : "Soyons libres " , "courant" : "droite", "YoutubeChannel" : {
+    "UCXAKlEXGwoavQuOMaNBeaXw": {
+        "channel_info": {
+            "title": "Val\u00e9rie P\u00e9cresse",
+            "country": "FR",
+            "publishedAt": "2015-01-25T23:00:12Z",
+            "statistics": {
+                "viewCount": "135332",
+                "hiddenSubscriberCount": true,
+                "videoCount": "303"
+            },
+            "channelcategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "video_data": {
+            "q_qbPWEo3PQ": {
+                "title": "D\u00e9claration de 1er tour",
+                "publishedAt": "2021-12-02T16:43:14Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "q_qbPWEo3PQ",
+                "viewCount": "4137",
+                "likeCount": "63",
+                "dislikeCount": "36",
+                "favoriteCount": "0",
+                "duration": "PT9M16S"
+            },
+            "X4MkXON-bSI": {
+                "title": "Les t\u00e9moignages d'Agnes Evren et Rachida Dati",
+                "publishedAt": "2021-11-30T22:45:26Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "X4MkXON-bSI",
+                "viewCount": "2704",
+                "likeCount": "45",
+                "dislikeCount": "12",
+                "favoriteCount": "0",
+                "duration": "PT43S"
+            },
+            "VXydhXNn4mY": {
+                "title": "Le t\u00e9moignage de Nicolas Sarkozy",
+                "publishedAt": "2021-11-30T22:34:44Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "VXydhXNn4mY",
+                "viewCount": "3886",
+                "likeCount": "57",
+                "dislikeCount": "19",
+                "favoriteCount": "0",
+                "duration": "PT20S"
+            },
+            "SEyFL_8BpQk": {
+                "title": "Le soutien de Brice Hortefeux",
+                "publishedAt": "2021-11-30T22:26:54Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "SEyFL_8BpQk",
+                "viewCount": "311",
+                "likeCount": "5",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "duration": "PT18S"
+            },
+            "UGU7rQU-cCY": {
+                "title": "Le t\u00e9moignage de Bruno Retailleau",
+                "publishedAt": "2021-11-30T22:18:34Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "UGU7rQU-cCY",
+                "viewCount": "305",
+                "likeCount": "6",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "duration": "PT29S"
+            },
+            "I-WddYTVDVE": {
+                "title": "Le t\u00e9moignage de G\u00e9rard Larcher",
+                "publishedAt": "2021-11-30T22:10:32Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "I-WddYTVDVE",
+                "viewCount": "445",
+                "likeCount": "9",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "duration": "PT26S"
+            },
+            "IqblnuKuIaw": {
+                "title": "Le t\u00e9moignage de Jean-Fran\u00e7ois Cop\u00e9",
+                "publishedAt": "2021-11-30T21:51:46Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "IqblnuKuIaw",
+                "viewCount": "306",
+                "likeCount": "6",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "duration": "PT23S"
+            },
+            "6UpUNGvuKyk": {
+                "title": "Le soutien d'Eric Pauget, d\u00e9put\u00e9 des Alpes-Maritimes",
+                "publishedAt": "2021-10-27T13:30:51Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "6UpUNGvuKyk",
+                "viewCount": "1040",
+                "likeCount": "23",
+                "dislikeCount": "12",
+                "favoriteCount": "0",
+                "duration": "PT29S"
+            },
+            "b-24VO-Eih8": {
+                "title": "Le soutien de Franc\u0327oise Dumont, s\u00e9natrice du Var",
+                "publishedAt": "2021-10-27T13:26:27Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse",
+                    "Congr\u00e8s LR"
+                ],
+                "livebroadcast": "none",
+                "vidid": "b-24VO-Eih8",
+                "viewCount": "429",
+                "likeCount": "11",
+                "dislikeCount": "5",
+                "favoriteCount": "0",
+                "duration": "PT40S"
+            },
+            "EvINeHU47xA": {
+                "title": "Bilan Macron : un quinquennat pour presque rien",
+                "publishedAt": "2021-10-19T15:26:48Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "EvINeHU47xA",
+                "viewCount": "1139",
+                "likeCount": "31",
+                "dislikeCount": "17",
+                "favoriteCount": "0",
+                "duration": "PT34M3S"
+            },
+            "VGGxUIvNHHM": {
+                "title": "\u00ab\u00a0Je souhaite qu'au p\u00e9nal, la comparution imm\u00e9diate devienne la r\u00e8gle pour les flagrants d\u00e9lits\u00a0\u00bb",
+                "publishedAt": "2021-10-18T09:38:10Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "VGGxUIvNHHM",
+                "viewCount": "4785",
+                "likeCount": "65",
+                "dislikeCount": "42",
+                "favoriteCount": "0",
+                "duration": "PT53M31S"
+            },
+            "ZnRkM7WfSK4": {
+                "title": "Discours pour \u00ab Nation \u00c9ducative \u00bb",
+                "publishedAt": "2021-10-12T18:02:36Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "ZnRkM7WfSK4",
+                "viewCount": "511",
+                "likeCount": "20",
+                "dislikeCount": "7",
+                "favoriteCount": "0",
+                "duration": "PT29M36S"
+            },
+            "zAyiUFserQ0": {
+                "title": "\u00ab\u00a0Je serai la Pr\u00e9sidente qui fera confiance aux territoires\u00a0\u00bb",
+                "publishedAt": "2021-10-07T13:45:26Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "zAyiUFserQ0",
+                "viewCount": "686",
+                "likeCount": "24",
+                "dislikeCount": "6",
+                "favoriteCount": "0",
+                "duration": "PT13M12S"
+            },
+            "j9hW4z9vUk8": {
+                "title": "\u00ab\u00a0Pour une souverainet\u00e9 \u00e9nerg\u00e9tique qui allie \u00e9nergie et pouvoir d'achat\u00a0\u00bb",
+                "publishedAt": "2021-10-06T09:54:23Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "j9hW4z9vUk8",
+                "viewCount": "403",
+                "likeCount": "18",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "duration": "PT21M30S"
+            },
+            "3CqUkZ5Ncxk": {
+                "title": "Val\u00e9rie P\u00e9cresse pr\u00e9sente son projet de loi constitutionnelle pour stopper l'immigration incontr\u00f4l\u00e9e",
+                "publishedAt": "2021-10-05T11:02:25Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "3CqUkZ5Ncxk",
+                "viewCount": "1721",
+                "likeCount": "51",
+                "dislikeCount": "12",
+                "favoriteCount": "0",
+                "duration": "PT13M53S"
+            },
+            "HgUQ2lWDI3s": {
+                "title": "\u00ab J\u2019ai toujours dit que je jouerai collectif, je veux l\u2019unit\u00e9 et je vais gagner \u00bb",
+                "publishedAt": "2021-09-30T13:33:30Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "HgUQ2lWDI3s",
+                "viewCount": "873",
+                "likeCount": "21",
+                "dislikeCount": "10",
+                "favoriteCount": "0",
+                "duration": "PT20M44S"
+            },
+            "ygMUyjGycMw": {
+                "title": "\u00ab\u00a0Mon engagement sur 5 ans sera de faire passer le budget de la s\u00e9curit\u00e9 int\u00e9rieure \u00e0 2% du PIB\u00a0\u00bb",
+                "publishedAt": "2021-09-13T15:23:47Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "ygMUyjGycMw",
+                "viewCount": "5145",
+                "likeCount": "69",
+                "dislikeCount": "27",
+                "favoriteCount": "0",
+                "duration": "PT47M7S"
+            },
+            "RsJXRSl9KeM": {
+                "title": "\u00ab\u00a0La France au premier rang : voil\u00e0 ce que je propose !\u00a0\u00bb",
+                "publishedAt": "2021-08-28T18:26:56Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "RsJXRSl9KeM",
+                "viewCount": "2969",
+                "likeCount": "53",
+                "dislikeCount": "32",
+                "favoriteCount": "0",
+                "duration": "PT35M44S"
+            },
+            "yMxlpquLuh8": {
+                "title": "\u00ab\u00a0Pourquoi les femmes ne pourraient pas pr\u00e9tendre \u00e0 la premi\u00e8re place ?\u00a0\u00bb",
+                "publishedAt": "2021-07-26T14:58:46Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "yMxlpquLuh8",
+                "viewCount": "790",
+                "likeCount": "28",
+                "dislikeCount": "6",
+                "favoriteCount": "0",
+                "duration": "PT24M25S"
+            },
+            "cDU89JN8DRA": {
+                "title": "\u00ab\u00a0Je suis pr\u00eate \u00e0 \u00eatre la premi\u00e8re femme pr\u00e9sidente de la R\u00e9publique\u00a0\u00bb",
+                "publishedAt": "2021-07-25T14:14:13Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "cDU89JN8DRA",
+                "viewCount": "799",
+                "likeCount": "27",
+                "dislikeCount": "9",
+                "favoriteCount": "0",
+                "duration": "PT14M40S"
+            },
+            "C-qCs4fRyec": {
+                "title": "\u00ab D\u2019ici la fin de l\u2019\u00e9t\u00e9, nous voterons et commencerons \u00e0 appliquer 80% de mes engagements \u00bb",
+                "publishedAt": "2021-07-02T14:06:44Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "C-qCs4fRyec",
+                "viewCount": "510",
+                "likeCount": "20",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "duration": "PT17M25S"
+            },
+            "i_DOW29hMRc": {
+                "title": "\u00c9lections pr\u00e9sidentielles : \u00ab\u00a0Je vais y r\u00e9fl\u00e9chir pendant l\u2019\u00e9t\u00e9\u00a0\u00bb",
+                "publishedAt": "2021-07-01T09:05:29Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "i_DOW29hMRc",
+                "viewCount": "540",
+                "likeCount": "20",
+                "dislikeCount": "4",
+                "favoriteCount": "0",
+                "duration": "PT19M34S"
+            },
+            "cnMfDsIymy0": {
+                "title": "Pr\u00e9sentation des propositions culture",
+                "publishedAt": "2021-06-07T10:15:25Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "cnMfDsIymy0",
+                "viewCount": "740",
+                "likeCount": "12",
+                "dislikeCount": "5",
+                "favoriteCount": "0",
+                "duration": "PT1H44M21S"
+            },
+            "_rYIhE-yySw": {
+                "title": "\u00ab\u00a0Le RN vit des probl\u00e8mes mais refuse toutes les solutions\u00a0\u00bb",
+                "publishedAt": "2021-06-02T15:51:58Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "_rYIhE-yySw",
+                "viewCount": "1379",
+                "likeCount": "28",
+                "dislikeCount": "20",
+                "favoriteCount": "0",
+                "duration": "PT25M51S"
+            },
+            "m10KKp72bwc": {
+                "title": "Mon ambition c'est l'\u00e9galit\u00e9 pour les territoires ruraux !",
+                "publishedAt": "2021-06-02T11:30:10Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "m10KKp72bwc",
+                "viewCount": "239",
+                "likeCount": "7",
+                "dislikeCount": "3",
+                "favoriteCount": "0",
+                "duration": "PT2M10S"
+            },
+            "H9zbsWUrbW0": {
+                "title": "\u00ab\u00a0Pour vous, de toutes mes forces\u00a0\u00bb",
+                "publishedAt": "2021-05-10T16:40:32Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "H9zbsWUrbW0",
+                "viewCount": "1343",
+                "likeCount": "35",
+                "dislikeCount": "14",
+                "favoriteCount": "0",
+                "duration": "PT1M39S"
+            },
+            "dfuAkEnhRzw": {
+                "title": "1er Meeting num\u00e9rique de Val\u00e9rie P\u00e9cresse",
+                "publishedAt": "2021-05-07T06:35:51Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "dfuAkEnhRzw",
+                "viewCount": "1452",
+                "likeCount": "37",
+                "dislikeCount": "5",
+                "favoriteCount": "0",
+                "commentCount": "9",
+                "duration": "PT1H24M41S"
+            },
+            "tOcM0r4HW5w": {
+                "title": "\u00ab\u00a0Je ne ferai d\u2019alliance avec LREM, ni au premier tour, ni au second tour\u00a0\u00bb",
+                "publishedAt": "2021-05-02T17:26:12Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse",
+                    "R\u00e9gionales 2021"
+                ],
+                "livebroadcast": "none",
+                "vidid": "tOcM0r4HW5w",
+                "viewCount": "2216",
+                "likeCount": "42",
+                "dislikeCount": "5",
+                "favoriteCount": "0",
+                "duration": "PT55M3S"
+            },
+            "S8Yx1XxtYh8": {
+                "title": "\u00ab\u00a0Ma d\u00e9marche va \u00eatre large et va d\u00e9passer les clivages\u00a0\u00bb",
+                "publishedAt": "2021-04-29T18:54:11Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse",
+                    "R\u00e9gionales 2021",
+                    "R\u00e9gion \u00cele-de-France"
+                ],
+                "livebroadcast": "none",
+                "vidid": "S8Yx1XxtYh8",
+                "viewCount": "446",
+                "likeCount": "16",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "duration": "PT4M27S"
+            },
+            "zqoFogdpVyQ": {
+                "title": "\u00ab\u00a0Je suis \u00e0 nouveau candidate parce que je veux tenir le cap pour la r\u00e9gion Ile-de-France \u00bb",
+                "publishedAt": "2021-04-29T06:56:04Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse",
+                    "R\u00e9gionales 2021",
+                    "R\u00e9gion \u00cele-de-France"
+                ],
+                "livebroadcast": "none",
+                "vidid": "zqoFogdpVyQ",
+                "viewCount": "804",
+                "likeCount": "27",
+                "dislikeCount": "4",
+                "favoriteCount": "0",
+                "duration": "PT12M22S"
+            },
+            "Z0NwQXUp9QA": {
+                "title": "\u00abTant que la situation sanitaire est ce qu'elle est, je resterai pleinement \u00e0 la barre de ma r\u00e9gion\u00bb",
+                "publishedAt": "2021-04-15T13:53:32Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "Z0NwQXUp9QA",
+                "viewCount": "371",
+                "likeCount": "10",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "duration": "PT24M41S"
+            },
+            "Up8qResHbAc": {
+                "title": "\u00ab\u00a0Z\u00e9ro gaspillage, z\u00e9ro stock. Il faut pouvoir ouvrir la vaccination \u00e0 d\u2019autres publics\u00a0\u00bb",
+                "publishedAt": "2021-04-13T10:09:42Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "Up8qResHbAc",
+                "viewCount": "228",
+                "likeCount": "9",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "duration": "PT22M50S"
+            },
+            "h5EF5JS-xwE": {
+                "title": "\u00ab\u00a0La mise en d\u00e9charge doit \u00eatre gratuite pour les professionnels\u00a0\u00bb",
+                "publishedAt": "2021-03-28T11:20:11Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "h5EF5JS-xwE",
+                "viewCount": "395",
+                "likeCount": "14",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "duration": "PT10M24S"
+            },
+            "QwUX0l-7i5U": {
+                "title": "Confinement : \u00ab Il ne faut pas tataouiner ! \u00bb",
+                "publishedAt": "2021-03-25T16:46:34Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse",
+                    "COVID 19",
+                    "vaccin"
+                ],
+                "livebroadcast": "none",
+                "vidid": "QwUX0l-7i5U",
+                "viewCount": "271",
+                "likeCount": "13",
+                "dislikeCount": "3",
+                "favoriteCount": "0",
+                "duration": "PT19M37S"
+            },
+            "T3EYlfMQtVw": {
+                "title": "\u00ab\u00a0Le paradoxe de cette crise [\u2026] nous avons des secteurs qui recrutent massivement\u00a0\u00bb",
+                "publishedAt": "2021-03-12T09:49:22Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "T3EYlfMQtVw",
+                "viewCount": "241",
+                "likeCount": "9",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "duration": "PT12M20S"
+            },
+            "1emiMRmgKEs": {
+                "title": "\u00ab\u00a0Je ne me soumettrai jamais, je ne veux pas vivre dans une R\u00e9publique d\u00e9la\u00efcis\u00e9e, communautaris\u00e9e \u00bb",
+                "publishedAt": "2021-03-11T14:23:06Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "1emiMRmgKEs",
+                "viewCount": "833",
+                "likeCount": "15",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "duration": "PT48M43S"
+            },
+            "oTHjelH8wLE": {
+                "title": "\u00ab\u00a0Je lance le RJA, une aide \u00e0 la formation de 4000\u20ac pour les jeunes dans les m\u00e9tiers qui recrutent \u00bb",
+                "publishedAt": "2021-03-11T13:47:45Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse",
+                    "RJA",
+                    "Solidarit\u00e9",
+                    "Jeunes"
+                ],
+                "livebroadcast": "none",
+                "vidid": "oTHjelH8wLE",
+                "viewCount": "249",
+                "likeCount": "11",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "duration": "PT58M59S"
+            },
+            "BrLUV0CJp-4": {
+                "title": "\u00ab\u00a0Vous me trouverez toujours aux c\u00f4t\u00e9s des professeurs menac\u00e9s\u00a0\u00bb",
+                "publishedAt": "2021-02-22T15:20:56Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "BrLUV0CJp-4",
+                "viewCount": "666",
+                "likeCount": "18",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "duration": "PT47M54S"
+            },
+            "cVYn1amagIE": {
+                "title": "\u00ab\u00a0Nous ouvrons 4 h\u00f4tels pour aider les \u00e9tudiants en grande pr\u00e9carit\u00e9\u00a0\u00bb",
+                "publishedAt": "2021-02-10T08:29:48Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse",
+                    "pr\u00e9carit\u00e9 \u00e9tudiante",
+                    "ZAD Gonesse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "cVYn1amagIE",
+                "viewCount": "423",
+                "likeCount": "11",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "duration": "PT16M14S"
+            },
+            "MbXAqR2FaVU": {
+                "title": "Toujours libres, jamais soumis !",
+                "publishedAt": "2021-01-28T11:32:32Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "MbXAqR2FaVU",
+                "viewCount": "792",
+                "likeCount": "30",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "duration": "PT4M27S"
+            },
+            "mUFU8-MgL8E": {
+                "title": "\u00ab\u00a0Le port du voile forc\u00e9 dans l'espace public doit \u00eatre interdit et sanctionn\u00e9\u00a0\u00bb",
+                "publishedAt": "2021-01-25T10:50:00Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse",
+                    "Yuriy",
+                    "PJL Principes R\u00e9publicains",
+                    "S\u00e9paratisme"
+                ],
+                "livebroadcast": "none",
+                "vidid": "mUFU8-MgL8E",
+                "viewCount": "726",
+                "likeCount": "12",
+                "dislikeCount": "4",
+                "favoriteCount": "0",
+                "duration": "PT11M54S"
+            },
+            "S-78msUqkaY": {
+                "title": "\u00ab\u00a0Nous lan\u00e7ons une aide au loyer de 1000\u20ac pour les commerces ferm\u00e9s administrativement \u00bb",
+                "publishedAt": "2021-01-21T16:34:42Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse"
+                ],
+                "livebroadcast": "none",
+                "vidid": "S-78msUqkaY",
+                "viewCount": "179",
+                "likeCount": "11",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "duration": "PT13M46S"
+            },
+            "MlU5D83-ZX8": {
+                "title": "Vaccins : \u00ab\u00a0C\u2019est le bazar ! La R\u00e9gion va venir aider les maires\u00a0\u00bb",
+                "publishedAt": "2021-01-19T13:38:29Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse",
+                    "vaccin",
+                    "covid 19",
+                    "\u00e9tudiants",
+                    "universit\u00e9s"
+                ],
+                "livebroadcast": "none",
+                "vidid": "MlU5D83-ZX8",
+                "viewCount": "194",
+                "likeCount": "8",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "duration": "PT21M6S"
+            },
+            "N8ho6vHsrm0": {
+                "title": "Vaccins : \u00ab\u00a0Il faut laisser aux R\u00e9gions l'organisation logistique de la campagne grand public\u00a0\u00bb",
+                "publishedAt": "2021-01-07T16:09:34Z",
+                "tags": [
+                    "Val\u00e9rie P\u00e9cresse",
+                    "vaccin",
+                    "covid 19"
+                ],
+                "livebroadcast": "none",
+                "vidid": "N8ho6vHsrm0",
+                "viewCount": "292",
+                "likeCount": "11",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "duration": "PT24M58S"
+            }
+        }
+    }
+}}

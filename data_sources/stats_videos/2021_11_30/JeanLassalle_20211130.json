@@ -1,0 +1,99 @@
+{ "dateRequete" : "2021/11/30", "candidat" : "Jean Lassalle" , "parti" : "Résistons" , "courant" : "divers", "YoutubeChannel" : {
+    "UCdUat4f2yol7iMpCYoFUmNg": {
+        "channel_info": {
+            "title": "Jean Lassalle",
+            "country": "FR",
+            "publishedAt": "2016-09-14T22:24:29Z",
+            "statistics": {
+                "viewCount": "4754090",
+                "subscriberCount": "17600",
+                "hiddenSubscriberCount": false,
+                "videoCount": "268"
+            },
+            "channelcategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "video_data": {
+            "2IMsXmq1Y8E": {
+                "title": "Mes impressions sur la campagne pr\u00e9sidentielle",
+                "publishedAt": "2021-11-19T17:41:17Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "2IMsXmq1Y8E",
+                "viewCount": "4248",
+                "likeCount": "321",
+                "dislikeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "52",
+                "duration": "PT2M38S"
+            },
+            "jqT276Hs1qw": {
+                "title": "Lancement de notre site de campagne JL2022",
+                "publishedAt": "2021-11-09T11:24:03Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "jqT276Hs1qw",
+                "viewCount": "1791",
+                "likeCount": "144",
+                "dislikeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "26",
+                "duration": "PT1M3S"
+            },
+            "3MRLj_L86Z4": {
+                "title": "Appel aux maires : Parrainez ma candidature pour revitaliser nos communes de France",
+                "publishedAt": "2021-11-08T14:32:37Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "3MRLj_L86Z4",
+                "viewCount": "2571",
+                "likeCount": "128",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "32",
+                "duration": "PT7M37S"
+            },
+            "Ifx3q6NN3Wk": {
+                "title": "Mot du pr\u00e9sident lettre d'information R\u00e9sistons! novembre 2021",
+                "publishedAt": "2021-11-08T13:45:05Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "Ifx3q6NN3Wk",
+                "viewCount": "403",
+                "likeCount": "45",
+                "dislikeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "8",
+                "duration": "PT8M2S"
+            },
+            "p1Q7_cCmsPo": {
+                "title": "Appel \u00e0 dons campagne pr\u00e9sidentielle Jean Lassalle",
+                "publishedAt": "2021-11-08T13:45:41Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "p1Q7_cCmsPo",
+                "viewCount": "927",
+                "likeCount": "70",
+                "dislikeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "11",
+                "duration": "PT4M17S"
+            },
+            "0rIy5BYm7NM": {
+                "title": "Commission de la d\u00e9fense - intervention du 03/11/2021",
+                "publishedAt": "2021-11-03T12:22:38Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "0rIy5BYm7NM",
+                "viewCount": "2174",
+                "likeCount": "74",
+                "dislikeCount": "2",
+                "favoriteCount": "0",
+                "commentCount": "5",
+                "duration": "PT2M4S"
+            }
+        }
+    }
+}}

@@ -13,14 +13,6 @@ import random
 # necessaire pour la conversion de la duree de la video Youtube
 import isodate
 
-# Transforme une colonne de listes en colonne d'une seule dimension avec toutes les valeurs
-# Permet de faire des stats en volume d'occurences rapidement.
-# Thanks : https://towardsdatascience.com/dealing-with-list-values-in-pandas-dataframes-a177e534f173
-def listcol_to_1dcol(series) :
-    return pd.Series(x for _list in series for x in _list)
-
-
-
 # ----------------------------------------------------------
 # Objet DataSets associe a ma fonction de requetage Youtube
 # ----------------------------------------------------------

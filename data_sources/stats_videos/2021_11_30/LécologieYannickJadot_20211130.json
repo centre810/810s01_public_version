@@ -1,0 +1,104 @@
+{ "dateRequete" : "2021/11/30", "candidat" : "Yannick Jadot" , "parti" : "Europe Ecologie-Les Verts" , "courant" : "vert", "YoutubeChannel" : {
+    "UCw7v4zI01GNLUO6jYgIHx0w": {
+        "channel_info": {
+            "title": "2022 L'\u00e9cologie - Yannick Jadot",
+            "country": "Unknown",
+            "publishedAt": "2021-02-01T07:37:40.420715Z",
+            "statistics": {
+                "viewCount": "9493",
+                "subscriberCount": "227",
+                "hiddenSubscriberCount": false,
+                "videoCount": "74"
+            },
+            "channelcategories": [
+                "https://en.wikipedia.org/wiki/Society",
+                "https://en.wikipedia.org/wiki/Politics"
+            ]
+        },
+        "video_data": {
+            "jHvzK9jXnQU": {
+                "title": "#AVECJADOT : \"Z\u00e9ro impunit\u00e9 pour les violences sexuelles\"",
+                "publishedAt": "2021-11-29T11:54:32Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "jHvzK9jXnQU",
+                "viewCount": "10",
+                "likeCount": "0",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT1M24S"
+            },
+            "sDtFWqYWlv8": {
+                "title": "Y. JADOT : LE PROJET DES \u00c9COLOGISTES",
+                "publishedAt": "2021-11-22T14:11:36Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "sDtFWqYWlv8",
+                "viewCount": "32",
+                "likeCount": "6",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT1M15S"
+            },
+            "NiKKbE_yOU8": {
+                "title": "LE RETROFIT : offrir une nouvelle vie \u00e0 son v\u00e9hicule",
+                "publishedAt": "2021-11-18T10:55:34Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "NiKKbE_yOU8",
+                "viewCount": "36",
+                "likeCount": "4",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT39S"
+            },
+            "_C3XTDw0m8I": {
+                "title": "Favoriser le \"MADE IN FRANCE\" selon Yannick Jadot",
+                "publishedAt": "2021-11-16T15:33:07Z",
+                "tags": [
+                    "Made In France",
+                    "MIFExpo",
+                    "Salon Made In France",
+                    "2022lecologie",
+                    "Jadot2022"
+                ],
+                "livebroadcast": "none",
+                "vidid": "_C3XTDw0m8I",
+                "viewCount": "38",
+                "likeCount": "4",
+                "dislikeCount": "0",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "PT1M4S"
+            },
+            "aD_qYFhWt2E": {
+                "title": "\u00ab Notre devise c'est pas racisme, antis\u00e9mitisme et r\u00e9visionnisme ! \u00bb Y. Jadot sur 'Les R\u00e9publicains'",
+                "publishedAt": "2021-11-15T11:39:19Z",
+                "tags": [
+                    "migrants",
+                    "les r\u00e9publicains",
+                    "devise",
+                    "libert\u00e9 \u00e9galit\u00e9 fraternit\u00e9",
+                    "punchline",
+                    "yannick jadot",
+                    "les \u00e9cologistes",
+                    "jadot2022",
+                    "\u00e9lections pr\u00e9sidentielles",
+                    "pologne",
+                    "bi\u00e9lorussie"
+                ],
+                "livebroadcast": "none",
+                "vidid": "aD_qYFhWt2E",
+                "viewCount": "88",
+                "likeCount": "6",
+                "dislikeCount": "1",
+                "favoriteCount": "0",
+                "commentCount": "1",
+                "duration": "PT1M"
+            }
+        }
+    }
+}}

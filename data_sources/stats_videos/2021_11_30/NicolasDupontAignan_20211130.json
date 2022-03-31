@@ -1,0 +1,597 @@
+{ "dateRequete" : "2021/11/30", "candidat" : "Nicolas Dupont-Aignan" , "parti" : "Debout la France" , "courant" : "Extrême droite", "YoutubeChannel" : {
+    "UCfA5DnCDX3Ixy5QOAMGtBlA": {
+        "channel_info": {
+            "title": "Nicolas Dupont-Aignan",
+            "country": "FR",
+            "publishedAt": "2007-02-03T19:21:55Z",
+            "statistics": {
+                "viewCount": "22284690",
+                "subscriberCount": "75500",
+                "hiddenSubscriberCount": false,
+                "videoCount": "2503"
+            },
+            "channelcategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "video_data": {
+            "9CeDCYM5HMo": {
+                "title": "Discours de Nicolas Dupont-Aignan - Conseil National de Debout la France (27 novembre 2021)",
+                "publishedAt": "2021-11-29T19:23:41Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "9CeDCYM5HMo",
+                "viewCount": "6287",
+                "likeCount": "1154",
+                "dislikeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "182",
+                "duration": "PT29M35S"
+            },
+            "L4cc6RqfS4c": {
+                "title": "100 euros d'essence rien que pour aller travailler... (29/11/2021)",
+                "publishedAt": "2021-11-29T18:48:39Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "L4cc6RqfS4c",
+                "viewCount": "2045",
+                "likeCount": "441",
+                "dislikeCount": "4",
+                "favoriteCount": "0",
+                "commentCount": "67",
+                "duration": "PT4M11S"
+            },
+            "Itj9XICWXRM": {
+                "title": "#NDA35 : Mon interview en direct !",
+                "publishedAt": "2021-11-29T10:40:00Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "Itj9XICWXRM",
+                "viewCount": "4756",
+                "likeCount": "558",
+                "dislikeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "95",
+                "duration": "PT45M17S"
+            },
+            "KSZMUeannio": {
+                "title": "Nicolas Dupont-Aignan au JT de 13h de TF1 (27 novembre 2021)",
+                "publishedAt": "2021-11-28T11:04:53Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "KSZMUeannio",
+                "viewCount": "34529",
+                "likeCount": "3072",
+                "dislikeCount": "41",
+                "favoriteCount": "0",
+                "commentCount": "608",
+                "duration": "PT4M14S"
+            },
+            "tmDCxRtD1Ps": {
+                "title": "Ce Gouvernement de petits repr\u00e9sentants de commerce de Pfizer veut vacciner les 5-11 ans ! (26/11)",
+                "publishedAt": "2021-11-26T18:25:11Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "tmDCxRtD1Ps",
+                "viewCount": "21060",
+                "likeCount": "3688",
+                "dislikeCount": "24",
+                "favoriteCount": "0",
+                "commentCount": "739",
+                "duration": "PT5M15S"
+            },
+            "LHmuqoNCNS4": {
+                "title": "Ce Gouvernement devient fou : le pi\u00e8ge du passe sanitaire se referme sur les Fran\u00e7ais. (25/11/2021)",
+                "publishedAt": "2021-11-25T13:09:45Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "LHmuqoNCNS4",
+                "viewCount": "53639",
+                "likeCount": "6726",
+                "dislikeCount": "67",
+                "favoriteCount": "0",
+                "commentCount": "1495",
+                "duration": "PT5M39S"
+            },
+            "XDvgoQ9v5r4": {
+                "title": "Castex d\u00e9montre l'inutilit\u00e9 du passe sanitaire ! (23/11/2021)",
+                "publishedAt": "2021-11-24T09:35:41Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "XDvgoQ9v5r4",
+                "viewCount": "21923",
+                "likeCount": "3964",
+                "dislikeCount": "18",
+                "favoriteCount": "0",
+                "commentCount": "668",
+                "duration": "PT5M22S"
+            },
+            "YWn2nUmp8UA": {
+                "title": "Sur les traces de mon grand-p\u00e8re, aviateur de la Grande Guerre (22/11/2021)",
+                "publishedAt": "2021-11-22T15:45:07Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "YWn2nUmp8UA",
+                "viewCount": "4531",
+                "likeCount": "816",
+                "dislikeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "82",
+                "duration": "PT2M13S"
+            },
+            "nHPgZV8Vj_U": {
+                "title": "Alexis Villepelet dans 90 Minutes Info (17/11/2021)",
+                "publishedAt": "2021-11-22T09:46:25Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "nHPgZV8Vj_U",
+                "viewCount": "6441",
+                "likeCount": "537",
+                "dislikeCount": "24",
+                "favoriteCount": "0",
+                "commentCount": "113",
+                "duration": "PT13M40S"
+            },
+            "97t60x4jxBE": {
+                "title": "Maltraitance des soignants ! (20/11/2021)",
+                "publishedAt": "2021-11-20T18:15:04Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "97t60x4jxBE",
+                "viewCount": "18329",
+                "likeCount": "2494",
+                "dislikeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "405",
+                "duration": "PT13M44S"
+            },
+            "cxA2DbqYsgo": {
+                "title": "#NDA34 : 3\u00e8me dose, confinement des non-vaccin\u00e9s... Le grand d\u00e9lire",
+                "publishedAt": "2021-11-20T17:00:16Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "cxA2DbqYsgo",
+                "viewCount": "30221",
+                "likeCount": "4112",
+                "dislikeCount": "40",
+                "favoriteCount": "0",
+                "commentCount": "769",
+                "duration": "PT19M53S"
+            },
+            "eWCN81W8xcU": {
+                "title": "Parrainages : je lance un appel solennel aux \u00e9lus de France ! (17/11/2021)",
+                "publishedAt": "2021-11-17T17:37:36Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "eWCN81W8xcU",
+                "viewCount": "9756",
+                "likeCount": "1743",
+                "dislikeCount": "14",
+                "favoriteCount": "0",
+                "commentCount": "219",
+                "duration": "PT2M13S"
+            },
+            "LO7okhMGHnE": {
+                "title": "Confinement des non-vaccin\u00e9s : ils sont devenus fous ! (15/11/2021)",
+                "publishedAt": "2021-11-15T20:02:17Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "LO7okhMGHnE",
+                "viewCount": "39797",
+                "likeCount": "6078",
+                "dislikeCount": "47",
+                "favoriteCount": "0",
+                "commentCount": "1261",
+                "duration": "PT5M35S"
+            },
+            "507XkV751tI": {
+                "title": "Nicolas Dupont-Aignan sur CNEWS (12 novembre 2021)",
+                "publishedAt": "2021-11-15T15:50:20Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "507XkV751tI",
+                "viewCount": "11676",
+                "likeCount": "996",
+                "dislikeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "203",
+                "duration": "PT28M41S"
+            },
+            "E1wpS6RYjBA": {
+                "title": "\"Je veux r\u00e9tablir nos fronti\u00e8res !\" : Nicolas Dupont-Aignan sur Europe 1 (12 novembre 2021)",
+                "publishedAt": "2021-11-15T11:53:45Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "E1wpS6RYjBA",
+                "viewCount": "4330",
+                "likeCount": "548",
+                "dislikeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "119",
+                "duration": "PT15M27S"
+            },
+            "vRtfTUXSN-0": {
+                "title": "Nicolas Dupont-Aignan face \u00e0 Marianne au salon du Made in France 2021",
+                "publishedAt": "2021-11-15T09:21:25Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "vRtfTUXSN-0",
+                "viewCount": "8428",
+                "likeCount": "720",
+                "dislikeCount": "28",
+                "favoriteCount": "0",
+                "commentCount": "195",
+                "duration": "PT24M48S"
+            },
+            "mZXIgCsTeC4": {
+                "title": "R\u00e9v\u00e9lation qui compromet V\u00e9ran ! (12/11/2021)",
+                "publishedAt": "2021-11-13T12:26:09Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "mZXIgCsTeC4",
+                "viewCount": "28940",
+                "likeCount": "5072",
+                "dislikeCount": "31",
+                "favoriteCount": "0",
+                "commentCount": "574",
+                "duration": "PT3M9S"
+            },
+            "beZ5IaM-FPU": {
+                "title": "Nicolas Dupont-Aignan dans les 4 V\u00e9rit\u00e9s sur France 2 (11 novembre 2021)",
+                "publishedAt": "2021-11-12T09:39:31Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "beZ5IaM-FPU",
+                "viewCount": "19721",
+                "likeCount": "1759",
+                "dislikeCount": "31",
+                "favoriteCount": "0",
+                "commentCount": "230",
+                "duration": "PT9M40S"
+            },
+            "SJJeJjT4YCo": {
+                "title": "Honneur aux morts pour la France : leur sacrifice nous oblige. (11/11/2021)",
+                "publishedAt": "2021-11-11T14:12:57Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "SJJeJjT4YCo",
+                "viewCount": "2713",
+                "likeCount": "462",
+                "dislikeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "60",
+                "duration": "PT3M48S"
+            },
+            "nMZCD3a8QKI": {
+                "title": "Emmanuel Macron ment comme un arracheur de dent sur le nucl\u00e9aire ! (10/11/2021)",
+                "publishedAt": "2021-11-11T07:54:35Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "nMZCD3a8QKI",
+                "viewCount": "14045",
+                "likeCount": "2610",
+                "dislikeCount": "29",
+                "favoriteCount": "0",
+                "commentCount": "427",
+                "duration": "PT4M19S"
+            },
+            "k_ESe4OyARk": {
+                "title": "Imposture d'Emmanuel Macron !! (09/11/2021)",
+                "publishedAt": "2021-11-09T19:59:32Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "k_ESe4OyARk",
+                "viewCount": "32698",
+                "likeCount": "6228",
+                "dislikeCount": "34",
+                "favoriteCount": "0",
+                "commentCount": "1036",
+                "duration": "PT3M2S"
+            },
+            "9FlgGVdDin0": {
+                "title": "Ma r\u00e9action \u00e0 l'attaque terroriste de Cannes ! (08/11/2021)",
+                "publishedAt": "2021-11-08T19:16:41Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "9FlgGVdDin0",
+                "viewCount": "7150",
+                "likeCount": "1277",
+                "dislikeCount": "29",
+                "favoriteCount": "0",
+                "commentCount": "222",
+                "duration": "PT3M15S"
+            },
+            "pmUfERQq1CE": {
+                "title": "Alexis Villepelet sur CNEWS (05/11/2021)",
+                "publishedAt": "2021-11-08T16:55:32Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "pmUfERQq1CE",
+                "viewCount": "2620",
+                "likeCount": "208",
+                "dislikeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "38",
+                "duration": "PT7M27S"
+            },
+            "abpi-ly9uDo": {
+                "title": "#NDA33 : Olivier V\u00e9ran met en danger les Fran\u00e7ais !",
+                "publishedAt": "2021-11-07T16:00:00Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "abpi-ly9uDo",
+                "viewCount": "28543",
+                "likeCount": "3972",
+                "dislikeCount": "55",
+                "favoriteCount": "0",
+                "commentCount": "733",
+                "duration": "PT30M48S"
+            },
+            "LHSEd2_IesM": {
+                "title": "Passe sanitaire et pleins pouvoirs prolong\u00e9s ! (05/11/2021)",
+                "publishedAt": "2021-11-05T09:37:01Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "LHSEd2_IesM",
+                "viewCount": "12565",
+                "likeCount": "2223",
+                "dislikeCount": "21",
+                "favoriteCount": "0",
+                "commentCount": "529",
+                "duration": "PT5M37S"
+            },
+            "npUICvVHnk0": {
+                "title": "Policier en civil agress\u00e9 par des voyous dans un train ! (04/11/2021)",
+                "publishedAt": "2021-11-04T18:45:19Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "npUICvVHnk0",
+                "viewCount": "4327",
+                "likeCount": "670",
+                "dislikeCount": "15",
+                "favoriteCount": "0",
+                "commentCount": "129",
+                "duration": "PT2M53S"
+            },
+            "U8XmvkarGnA": {
+                "title": "Secret m\u00e9dical de nos enfants enterr\u00e9 par la majorit\u00e9 ! (04/11/2021)",
+                "publishedAt": "2021-11-04T11:00:14Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "U8XmvkarGnA",
+                "viewCount": "4227",
+                "likeCount": "811",
+                "dislikeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "159",
+                "duration": "PT2M6S"
+            },
+            "-w1MXHjR1cQ": {
+                "title": "Pleins pouvoirs vot\u00e9s jusqu'\u00e0 juillet 2022 ! (04/11/2021)",
+                "publishedAt": "2021-11-04T08:55:33Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "-w1MXHjR1cQ",
+                "viewCount": "12674",
+                "likeCount": "2143",
+                "dislikeCount": "18",
+                "favoriteCount": "0",
+                "commentCount": "492",
+                "duration": "PT3M46S"
+            },
+            "cixRx8UndWY": {
+                "title": "Mon combat contre le passe sanitaire dans l'h\u00e9micycle ! (04/11/2021)",
+                "publishedAt": "2021-11-04T08:51:13Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "cixRx8UndWY",
+                "viewCount": "4223",
+                "likeCount": "887",
+                "dislikeCount": "7",
+                "favoriteCount": "0",
+                "commentCount": "130",
+                "duration": "PT4M18S"
+            },
+            "gBbtqNGwHMo": {
+                "title": "A l'Assembl\u00e9e contre la prolongation de l'\u00e9tat d'urgence ! (03/11/2021)",
+                "publishedAt": "2021-11-03T19:22:21Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "gBbtqNGwHMo",
+                "viewCount": "10410",
+                "likeCount": "2278",
+                "dislikeCount": "10",
+                "favoriteCount": "0",
+                "commentCount": "311",
+                "duration": "PT4M21S"
+            },
+            "dAq2TmEfRH4": {
+                "title": "Scandale du #PfizerGate : je demande des explications ! (03/11/2021)",
+                "publishedAt": "2021-11-03T14:27:28Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "dAq2TmEfRH4",
+                "viewCount": "66132",
+                "likeCount": "6282",
+                "dislikeCount": "50",
+                "favoriteCount": "0",
+                "commentCount": "1033",
+                "duration": "PT4M22S"
+            },
+            "kGWYbCWr5wA": {
+                "title": "Nicolas Dupont-Aignan sur CNEWS (3 novembre 2021)",
+                "publishedAt": "2021-11-03T12:19:02Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "kGWYbCWr5wA",
+                "viewCount": "17348",
+                "likeCount": "1246",
+                "dislikeCount": "23",
+                "favoriteCount": "0",
+                "commentCount": "284",
+                "duration": "PT15M47S"
+            },
+            "ORp4yd8iUvI": {
+                "title": "Nicolas Dupont-Aignan sur Public S\u00e9nat (03/11/2021)",
+                "publishedAt": "2021-11-03T08:45:54Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "ORp4yd8iUvI",
+                "viewCount": "4841",
+                "likeCount": "597",
+                "dislikeCount": "11",
+                "favoriteCount": "0",
+                "commentCount": "101",
+                "duration": "PT21M49S"
+            },
+            "sjs3xu1PjH0": {
+                "title": "Sous-marins : Macron a encore menti ! (02/11/2021)",
+                "publishedAt": "2021-11-02T18:06:17Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "sjs3xu1PjH0",
+                "viewCount": "10513",
+                "likeCount": "2046",
+                "dislikeCount": "12",
+                "favoriteCount": "0",
+                "commentCount": "308",
+                "duration": "PT4M41S"
+            },
+            "Wihn3R_ViLo": {
+                "title": "Nicolas Dupont-Aignan sur les routes de France",
+                "publishedAt": "2021-11-02T14:30:04Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "Wihn3R_ViLo",
+                "viewCount": "2190",
+                "likeCount": "326",
+                "dislikeCount": "8",
+                "favoriteCount": "0",
+                "commentCount": "44",
+                "duration": "PT3M20S"
+            },
+            "9c97jpv7RCc": {
+                "title": "Nicolas Dupont-Aignan sur BFMTV : \"Je ferai campagne en 2022 pour la libert\u00e9\" (31/10/2021)",
+                "publishedAt": "2021-11-01T10:20:21Z",
+                "tags": [
+                    "Debout La France",
+                    "Nicolas Dupont-Aignan"
+                ],
+                "livebroadcast": "none",
+                "vidid": "9c97jpv7RCc",
+                "viewCount": "11877",
+                "likeCount": "990",
+                "dislikeCount": "43",
+                "favoriteCount": "0",
+                "commentCount": "304",
+                "duration": "PT44M44S"
+            }
+        }
+    }
+}}

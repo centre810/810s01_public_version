@@ -1,0 +1,404 @@
+{ "dateRequete" : "2022/03/07", "candidat" : "Avec vous" , "parti" : "LREM" , "courant" : "centre", "YoutubeChannel" : {
+    "UCFTOzGqZcje45yv7SSTkBBQ": {
+        "channel_info": {
+            "title": "avec vous",
+            "country": "FR",
+            "publishedAt": "2021-12-30T11:28:05.231114Z",
+            "statistics": {
+                "viewCount": "262293",
+                "subscriberCount": "16000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "18"
+            },
+            "channelcategories": [
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "video_data": {
+            "vT1uvtxMxPE": {
+                "title": "Emmanuel Macron, le Candidat. | \u00c9pisode 1",
+                "publishedAt": "2022-03-04T17:00:12Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron",
+                    "modem",
+                    "en marche",
+                    "pr\u00e9sidentielle",
+                    "\u00e9lection 2022",
+                    "\u00e9douard philippe",
+                    "fran\u00e7ois bayrou",
+                    "bayrou",
+                    "territoires de progr\u00e8s",
+                    "stanislas guerini",
+                    "Gabriel Attal",
+                    "G\u00e9rald Darmanin",
+                    "Castex",
+                    "Jean Castex"
+                ],
+                "livebroadcast": "none",
+                "vidid": "vT1uvtxMxPE",
+                "viewCount": "254808",
+                "likeCount": "7696",
+                "favoriteCount": "0",
+                "commentCount": "2896",
+                "duration": "PT4M35S"
+            },
+            "eRDTg8X2B2E": {
+                "title": "Depuis 2017, Emmanuel Macron agit sans rel\u00e2che pour une agriculture fran\u00e7aise de qualit\u00e9.",
+                "publishedAt": "2022-03-03T09:09:28Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron",
+                    "modem",
+                    "en marche",
+                    "pr\u00e9sidentielle",
+                    "\u00e9lection 2022",
+                    "\u00e9douard philippe",
+                    "fran\u00e7ois bayrou",
+                    "bayrou",
+                    "territoires de progr\u00e8s",
+                    "stanislas guerini",
+                    "Gabriel Attal",
+                    "G\u00e9rald Darmanin",
+                    "Castex",
+                    "Jean Castex"
+                ],
+                "livebroadcast": "none",
+                "vidid": "eRDTg8X2B2E",
+                "viewCount": "2630",
+                "likeCount": "100",
+                "favoriteCount": "0",
+                "commentCount": "13",
+                "duration": "PT2M31S"
+            },
+            "0iITWrJ1HwU": {
+                "title": "Avec Jean-Val\u00e8re, fromager \u00e0 Auri\u00e8res",
+                "publishedAt": "2022-02-28T17:59:01Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron",
+                    "modem",
+                    "en marche",
+                    "pr\u00e9sidentielle",
+                    "\u00e9lection 2022",
+                    "\u00e9douard philippe",
+                    "fran\u00e7ois bayrou",
+                    "bayrou",
+                    "territoires de progr\u00e8s",
+                    "stanislas guerini",
+                    "Gabriel Attal",
+                    "G\u00e9rald Darmanin",
+                    "Castex",
+                    "Jean Castex"
+                ],
+                "livebroadcast": "none",
+                "vidid": "0iITWrJ1HwU",
+                "viewCount": "1184",
+                "likeCount": "40",
+                "favoriteCount": "0",
+                "commentCount": "9",
+                "duration": "PT3M17S"
+            },
+            "rZc1NgdZksM": {
+                "title": "Avec C\u00e9dric Maurel, maire de Bessi\u00e8res",
+                "publishedAt": "2022-02-23T20:39:46Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron",
+                    "modem",
+                    "en marche",
+                    "pr\u00e9sidentielle",
+                    "\u00e9lection 2022",
+                    "\u00e9douard philippe",
+                    "fran\u00e7ois bayrou",
+                    "bayrou",
+                    "territoires de progr\u00e8s",
+                    "stanislas guerini",
+                    "Gabriel Attal",
+                    "G\u00e9rald Darmanin",
+                    "Castex",
+                    "Jean Castex"
+                ],
+                "livebroadcast": "none",
+                "vidid": "rZc1NgdZksM",
+                "viewCount": "1421",
+                "likeCount": "73",
+                "favoriteCount": "0",
+                "commentCount": "3",
+                "duration": "PT2M31S"
+            },
+            "VNOTOau4noQ": {
+                "title": "Avec Omar, directeur de cinq chantiers d\u2019insertion sur l\u2019\u00eele de Mayotte",
+                "publishedAt": "2022-02-17T16:31:48Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron",
+                    "modem",
+                    "en marche",
+                    "pr\u00e9sidentielle",
+                    "\u00e9lection 2022",
+                    "\u00e9douard philippe",
+                    "fran\u00e7ois bayrou",
+                    "bayrou",
+                    "territoires de progr\u00e8s",
+                    "stanislas guerini",
+                    "Gabriel Attal",
+                    "G\u00e9rald Darmanin",
+                    "Castex",
+                    "Jean Castex"
+                ],
+                "livebroadcast": "none",
+                "vidid": "VNOTOau4noQ",
+                "viewCount": "1711",
+                "likeCount": "69",
+                "favoriteCount": "0",
+                "commentCount": "7",
+                "duration": "PT1M51S"
+            },
+            "yl4FwlHorJw": {
+                "title": "Avec Laurence, dirigeante de l'entreprise Kaporal \u00e0 Marseille",
+                "publishedAt": "2022-02-11T16:14:15Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron",
+                    "modem",
+                    "en marche",
+                    "pr\u00e9sidentielle",
+                    "\u00e9lection 2022",
+                    "\u00e9douard philippe",
+                    "fran\u00e7ois bayrou",
+                    "bayrou",
+                    "territoires de progr\u00e8s",
+                    "stanislas guerini",
+                    "Gabriel Attal",
+                    "G\u00e9rald Darmanin",
+                    "Castex",
+                    "Jean Castex"
+                ],
+                "livebroadcast": "none",
+                "vidid": "yl4FwlHorJw",
+                "viewCount": "1559",
+                "likeCount": "77",
+                "favoriteCount": "0",
+                "commentCount": "1",
+                "duration": "PT1M57S"
+            },
+            "A7k9PcgtOeE": {
+                "title": "Avec Lo\u00efck, parlons du cong\u00e9 paternit\u00e9 et de la famille",
+                "publishedAt": "2022-02-09T14:59:43Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron",
+                    "modem",
+                    "en marche",
+                    "pr\u00e9sidentielle",
+                    "\u00e9lection 2022",
+                    "\u00e9douard philippe",
+                    "fran\u00e7ois bayrou",
+                    "bayrou",
+                    "territoires de progr\u00e8s",
+                    "stanislas guerini",
+                    "Gabriel Attal",
+                    "G\u00e9rald Darmanin",
+                    "Castex",
+                    "Jean Castex"
+                ],
+                "livebroadcast": "none",
+                "vidid": "A7k9PcgtOeE",
+                "viewCount": "1624",
+                "likeCount": "71",
+                "favoriteCount": "0",
+                "commentCount": "5",
+                "duration": "PT1M36S"
+            },
+            "6IG3S3W-ZLQ": {
+                "title": "Climat, \u00e9ducation\u2026 Faites entendre votre voix sur avecvous.fr/votre-voix !",
+                "publishedAt": "2022-02-09T13:42:32Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "6IG3S3W-ZLQ",
+                "viewCount": "1237",
+                "likeCount": "33",
+                "favoriteCount": "0",
+                "commentCount": "2",
+                "duration": "PT46S"
+            },
+            "wSXr6cNabBY": {
+                "title": "Avec Alexandra et Aymeric, dirigeants de la maison Broussaud",
+                "publishedAt": "2022-02-03T10:05:01Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron",
+                    "modem",
+                    "en marche",
+                    "pr\u00e9sidentielle",
+                    "\u00e9lection 2022",
+                    "\u00e9douard philippe",
+                    "fran\u00e7ois bayrou",
+                    "bayrou",
+                    "territoires de progr\u00e8s",
+                    "stanislas guerini",
+                    "Gabriel Attal",
+                    "G\u00e9rald Darmanin",
+                    "Castex",
+                    "Jean Castex"
+                ],
+                "livebroadcast": "none",
+                "vidid": "wSXr6cNabBY",
+                "viewCount": "1751",
+                "likeCount": "77",
+                "favoriteCount": "0",
+                "commentCount": "5",
+                "duration": "PT2M41S"
+            },
+            "snw6PiArf1A": {
+                "title": "Avec Lona, infirmi\u00e8re \u00e0 Bordeaux",
+                "publishedAt": "2022-01-27T00:42:43Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron"
+                ],
+                "livebroadcast": "none",
+                "vidid": "snw6PiArf1A",
+                "viewCount": "2423",
+                "likeCount": "46",
+                "favoriteCount": "0",
+                "commentCount": "19",
+                "duration": "PT2M16S"
+            },
+            "NTxQYXbiHdU": {
+                "title": "Avec Patrick, viticulteur en C\u00f4te-d'Or",
+                "publishedAt": "2022-01-27T00:39:54Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron"
+                ],
+                "livebroadcast": "none",
+                "vidid": "NTxQYXbiHdU",
+                "viewCount": "849",
+                "likeCount": "17",
+                "favoriteCount": "0",
+                "commentCount": "4",
+                "duration": "PT1M46S"
+            },
+            "DOooFoS4MeM": {
+                "title": "Avec Pierre, restaurateur \u00e0 Bordeaux",
+                "publishedAt": "2022-01-27T00:38:08Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron"
+                ],
+                "livebroadcast": "none",
+                "vidid": "DOooFoS4MeM",
+                "viewCount": "543",
+                "likeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "3",
+                "duration": "PT2M5S"
+            },
+            "s-O5XWH0eQk": {
+                "title": "Avec Sandrine, enseignante \u00e0 Metz",
+                "publishedAt": "2022-01-27T00:38:52Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron"
+                ],
+                "livebroadcast": "none",
+                "vidid": "s-O5XWH0eQk",
+                "viewCount": "959",
+                "likeCount": "20",
+                "favoriteCount": "0",
+                "commentCount": "4",
+                "duration": "PT1M43S"
+            },
+            "d_W-20qe0t8": {
+                "title": "Avec Manuel, g\u00e9rant d'un pub irlandais \u00e0 Lorient",
+                "publishedAt": "2022-01-27T00:34:42Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron"
+                ],
+                "livebroadcast": "none",
+                "vidid": "d_W-20qe0t8",
+                "viewCount": "744",
+                "likeCount": "25",
+                "favoriteCount": "0",
+                "commentCount": "5",
+                "duration": "PT1M58S"
+            },
+            "BXsg4gYSxSk": {
+                "title": "Avec J\u00e9r\u00e9mie, artiste plasticien \u00e0 Beaugency",
+                "publishedAt": "2022-01-27T00:33:18Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron"
+                ],
+                "livebroadcast": "none",
+                "vidid": "BXsg4gYSxSk",
+                "viewCount": "438",
+                "likeCount": "13",
+                "favoriteCount": "0",
+                "commentCount": "3",
+                "duration": "PT1M45S"
+            },
+            "jg4IwYBrcoA": {
+                "title": "Avec Nathalie, fondatrice de l'association des M\u00e8res Combattantes \u00e0 Paris",
+                "publishedAt": "2022-01-27T00:29:31Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron"
+                ],
+                "livebroadcast": "none",
+                "vidid": "jg4IwYBrcoA",
+                "viewCount": "712",
+                "likeCount": "31",
+                "favoriteCount": "0",
+                "commentCount": "9",
+                "duration": "PT1M35S"
+            },
+            "iq0A4bqA4jw": {
+                "title": "Avec Antoine, entrepreneur et co-fondateur d\u2019Ynsect",
+                "publishedAt": "2022-01-27T00:25:02Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron"
+                ],
+                "livebroadcast": "none",
+                "vidid": "iq0A4bqA4jw",
+                "viewCount": "623",
+                "likeCount": "23",
+                "favoriteCount": "0",
+                "commentCount": "3",
+                "duration": "PT1M45S"
+            },
+            "qSKmEx6wW08": {
+                "title": "D\u00e9couvrez la voix des Fran\u00e7ais et faites entendre la v\u00f4tre",
+                "publishedAt": "2022-01-27T00:17:42Z",
+                "tags": [
+                    "macron",
+                    "emmanuel macron",
+                    "modem",
+                    "en marche",
+                    "pr\u00e9sidentielle",
+                    "\u00e9lection 2022",
+                    "\u00e9douard philippe",
+                    "fran\u00e7ois bayrou",
+                    "bayrou",
+                    "territoires de progr\u00e8s",
+                    "stanislas guerini",
+                    "Gabriel Attal",
+                    "G\u00e9rald Darmanin",
+                    "Castex",
+                    "Jean Castex"
+                ],
+                "livebroadcast": "none",
+                "vidid": "qSKmEx6wW08",
+                "viewCount": "884",
+                "likeCount": "20",
+                "favoriteCount": "0",
+                "commentCount": "7",
+                "duration": "PT52S"
+            }
+        }
+    }
+}}

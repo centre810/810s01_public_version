@@ -1,0 +1,862 @@
+{ "dateRequete" : "2021/12/01", "candidat" : "Jean-Luc Mélenchon" , "parti" : "La France insoumise" , "courant" : "Extrême gauche", "YoutubeChannel" : {
+    "UCk-_PEY3iC6DIGJKuoEe9bw": {
+        "channel_info": {
+            "title": "JEAN-LUC M\u00c9LENCHON",
+            "country": "FR",
+            "publishedAt": "2012-01-01T15:05:16Z",
+            "statistics": {
+                "viewCount": "126993733",
+                "subscriberCount": "605000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "1177"
+            },
+            "channelcategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "video_data": {
+            "EOA-8eFztCE": {
+                "title": "EN DIRECT : Conf\u00e9rence de Jean-Luc M\u00e9lenchon \u00e0 l'\u00e9cole Centrale de Nantes - #M\u00e9lenchonNantes",
+                "publishedAt": "2021-11-30T21:15:44Z",
+                "tags": [
+                    "Nantes",
+                    "conf\u00e9rence",
+                    "m\u00e9lenchon",
+                    "centrale"
+                ],
+                "livebroadcast": "none",
+                "vidid": "EOA-8eFztCE",
+                "viewCount": "50355",
+                "likeCount": "3542",
+                "dislikeCount": "133",
+                "favoriteCount": "0",
+                "commentCount": "165",
+                "duration": "PT1H52M40S"
+            },
+            "jAcx3B3fi0I": {
+                "title": "EN DIRECT - Meeting de l'Union Populaire avec Jean-Luc M\u00e9lenchon \u00e0 Paris - #M\u00e9lenchonParis",
+                "publishedAt": "2021-11-30T13:56:07Z",
+                "tags": [
+                    "m\u00e9lenchon",
+                    "paris",
+                    "la d\u00e9fense",
+                    "meeting"
+                ],
+                "livebroadcast": "upcoming",
+                "vidid": "jAcx3B3fi0I",
+                "viewCount": "0",
+                "likeCount": "148",
+                "dislikeCount": "3",
+                "favoriteCount": "0",
+                "commentCount": "0",
+                "duration": "P0D"
+            },
+            "-XLXIeyi-oQ": {
+                "title": "Ta\u00efwan : je refuse la guerre froide avec la Chine",
+                "publishedAt": "2021-11-29T18:13:19Z",
+                "tags": [
+                    "ta\u00efwan",
+                    "chine",
+                    "\u00e9tats-unis",
+                    "france"
+                ],
+                "livebroadcast": "none",
+                "vidid": "-XLXIeyi-oQ",
+                "viewCount": "59882",
+                "likeCount": "4182",
+                "dislikeCount": "306",
+                "favoriteCount": "0",
+                "commentCount": "973",
+                "duration": "PT11M5S"
+            },
+            "YRFUymOXUlQ": {
+                "title": "Je veux plafonner les frais bancaires",
+                "publishedAt": "2021-11-28T19:31:07Z",
+                "tags": [
+                    "macron",
+                    "zemmour",
+                    "nucl\u00e9aire",
+                    "espace",
+                    "femmes",
+                    "guadeloupe",
+                    "calais",
+                    "immigration"
+                ],
+                "livebroadcast": "none",
+                "vidid": "YRFUymOXUlQ",
+                "viewCount": "129803",
+                "likeCount": "5366",
+                "dislikeCount": "252",
+                "favoriteCount": "0",
+                "commentCount": "872",
+                "duration": "PT53M2S"
+            },
+            "biAkymA__aA": {
+                "title": "Jean-Luc M\u00e9lenchon face \u00e0 BFM",
+                "publishedAt": "2021-11-26T00:04:37Z",
+                "tags": [
+                    "vaccin",
+                    "pass sanitaire",
+                    "immigration",
+                    "migrants",
+                    "calais",
+                    "logement",
+                    "smic",
+                    "isf",
+                    "imp\u00f4ts",
+                    "police",
+                    "nucl\u00e9aire",
+                    "constitution",
+                    "france"
+                ],
+                "livebroadcast": "none",
+                "vidid": "biAkymA__aA",
+                "viewCount": "523871",
+                "likeCount": "13202",
+                "dislikeCount": "916",
+                "favoriteCount": "0",
+                "commentCount": "3555",
+                "duration": "PT2H40M47S"
+            },
+            "VtRqwnlyNl0": {
+                "title": "\u00c9nergie, carburant, alimentation : il faut bloquer les prix !",
+                "publishedAt": "2021-11-23T16:29:32Z",
+                "tags": [
+                    "m\u00e9lenchon",
+                    "prix",
+                    "finances"
+                ],
+                "livebroadcast": "none",
+                "vidid": "VtRqwnlyNl0",
+                "viewCount": "56925",
+                "likeCount": "4055",
+                "dislikeCount": "69",
+                "favoriteCount": "0",
+                "commentCount": "448",
+                "duration": "PT9M55S"
+            },
+            "jcMToZv3zkc": {
+                "title": "Guadeloupe : il faut r\u00e9pondre \u00e0 l'exasp\u00e9ration g\u00e9n\u00e9rale de la population",
+                "publishedAt": "2021-11-23T13:37:00Z",
+                "tags": [
+                    "m\u00e9lenchon",
+                    "presse",
+                    "guadeloupe",
+                    "assembl\u00e9e",
+                    "pass sanitaire"
+                ],
+                "livebroadcast": "none",
+                "vidid": "jcMToZv3zkc",
+                "viewCount": "100647",
+                "likeCount": "5640",
+                "dislikeCount": "127",
+                "favoriteCount": "0",
+                "commentCount": "864",
+                "duration": "PT12M35S"
+            },
+            "ifEjl4rVjFY": {
+                "title": "Conf\u00e9rence de Jean-Luc M\u00e9lenchon \u00e0 Sciences Po Rennes",
+                "publishedAt": "2021-11-22T20:01:24Z",
+                "tags": [
+                    "m\u00e9lenchon",
+                    "rennes",
+                    "sciences po",
+                    "guadeloupe",
+                    "\u00e9tudiant",
+                    "europe"
+                ],
+                "livebroadcast": "none",
+                "vidid": "ifEjl4rVjFY",
+                "viewCount": "93760",
+                "likeCount": "4578",
+                "dislikeCount": "151",
+                "favoriteCount": "0",
+                "commentCount": "484",
+                "duration": "PT1H49M49S"
+            },
+            "J-mDf8-BC2s": {
+                "title": "Je vous appelle \u00e0 la mobilisation",
+                "publishedAt": "2021-11-18T15:05:18Z",
+                "tags": [
+                    "m\u00e9lenchon",
+                    "programme",
+                    "meeting"
+                ],
+                "livebroadcast": "none",
+                "vidid": "J-mDf8-BC2s",
+                "viewCount": "98437",
+                "likeCount": "8060",
+                "dislikeCount": "387",
+                "favoriteCount": "0",
+                "commentCount": "1303",
+                "duration": "PT7M57S"
+            },
+            "bgp_tcxRF8M": {
+                "title": "La maltraitance sociale doit cesser ! - #MelenchonTF1",
+                "publishedAt": "2021-11-17T19:47:39Z",
+                "tags": [
+                    "programme",
+                    "pass sanitaire",
+                    "vaccin",
+                    "smic",
+                    "retraite",
+                    "\u00e9tudiants",
+                    "prix",
+                    "carburants",
+                    "entreprises"
+                ],
+                "livebroadcast": "none",
+                "vidid": "bgp_tcxRF8M",
+                "viewCount": "105028",
+                "likeCount": "6469",
+                "dislikeCount": "203",
+                "favoriteCount": "0",
+                "commentCount": "1050",
+                "duration": "PT5M43S"
+            },
+            "qrpf1IJwyhY": {
+                "title": "Conf\u00e9rence de Jean-Luc M\u00e9lenchon \u00e0 l'ESSEC",
+                "publishedAt": "2021-11-16T21:06:12Z",
+                "tags": [
+                    "essec",
+                    "programme",
+                    "nucl\u00e9aire",
+                    "europe",
+                    "retraite",
+                    "\u00e9conomie",
+                    "ric",
+                    "opt-out",
+                    "\u00e9cologie"
+                ],
+                "livebroadcast": "none",
+                "vidid": "qrpf1IJwyhY",
+                "viewCount": "120110",
+                "likeCount": "5300",
+                "dislikeCount": "207",
+                "favoriteCount": "0",
+                "commentCount": "664",
+                "duration": "PT1H42M56S"
+            },
+            "vOXTryecScA": {
+                "title": "Conf\u00e9rence de Jean-Luc M\u00e9lenchon \u00e0 l'Universit\u00e9 de Lille",
+                "publishedAt": "2021-11-15T19:10:49Z",
+                "tags": [
+                    "m\u00e9lenchon",
+                    "lille",
+                    "universit\u00e9",
+                    "isf",
+                    "jeune",
+                    "\u00e9tudiant",
+                    "cop26",
+                    "\u00e9cologie",
+                    "dette"
+                ],
+                "livebroadcast": "none",
+                "vidid": "vOXTryecScA",
+                "viewCount": "215450",
+                "likeCount": "6507",
+                "dislikeCount": "293",
+                "favoriteCount": "0",
+                "commentCount": "682",
+                "duration": "PT1H42M37S"
+            },
+            "_s0XJDCQWQM": {
+                "title": "Pour relocaliser, il faut sortir des trait\u00e9s europ\u00e9ens",
+                "publishedAt": "2021-11-14T12:37:32Z",
+                "tags": [
+                    "europe",
+                    "protectionnisme",
+                    "pass sanitaire",
+                    "retraite",
+                    "pologne",
+                    "bi\u00e9lorussie",
+                    "russie",
+                    "edf",
+                    "immigration"
+                ],
+                "livebroadcast": "none",
+                "vidid": "_s0XJDCQWQM",
+                "viewCount": "175116",
+                "likeCount": "6212",
+                "dislikeCount": "354",
+                "favoriteCount": "0",
+                "commentCount": "1569",
+                "duration": "PT26M5S"
+            },
+            "FoyYYOdV5aY": {
+                "title": "#RDLS147 : Macron candidat, Pr\u00e9carit\u00e9 \u00e9nerg\u00e9tique, Thomas Pesquet",
+                "publishedAt": "2021-11-11T17:59:40Z",
+                "tags": [
+                    "macron",
+                    "pesquet",
+                    "thomas pesquet",
+                    "espace",
+                    "froid",
+                    "pauvret\u00e9",
+                    "pr\u00e9carit\u00e9 \u00e9nerg\u00e9tique",
+                    "ch\u00f4mage",
+                    "nucl\u00e9aire"
+                ],
+                "livebroadcast": "none",
+                "vidid": "FoyYYOdV5aY",
+                "viewCount": "81720",
+                "likeCount": "8414",
+                "dislikeCount": "151",
+                "favoriteCount": "0",
+                "commentCount": "649",
+                "duration": "PT38M49S"
+            },
+            "ANRWMjPpDBI": {
+                "title": "Macron est candidat-pr\u00e9sident !",
+                "publishedAt": "2021-11-09T21:06:28Z",
+                "tags": [
+                    "macron",
+                    "retraites",
+                    "ch\u00f4mage",
+                    "vaccin",
+                    "nucl\u00e9aire",
+                    "candidat"
+                ],
+                "livebroadcast": "none",
+                "vidid": "ANRWMjPpDBI",
+                "viewCount": "231812",
+                "likeCount": "6929",
+                "dislikeCount": "320",
+                "favoriteCount": "0",
+                "commentCount": "1394",
+                "duration": "PT22M44S"
+            },
+            "3rdY5B9pBXg": {
+                "title": "#AlloM\u00e9lenchon : \u00c9tudiants, cann\ud83c\udd70\ufe0fbis, nucl\u00e9aire, chasse, soignants, v\u00e9g\u00e9tarisme",
+                "publishedAt": "2021-11-09T10:57:41Z",
+                "tags": [
+                    "\u00e9tudiants",
+                    "nucl\u00e9aire",
+                    "soignants",
+                    "h\u00f4pital",
+                    "chasse",
+                    "v\u00e9g\u00e9tarisme"
+                ],
+                "livebroadcast": "none",
+                "vidid": "3rdY5B9pBXg",
+                "viewCount": "134086",
+                "likeCount": "5713",
+                "dislikeCount": "231",
+                "favoriteCount": "0",
+                "commentCount": "907",
+                "duration": "PT1H53M19S"
+            },
+            "tWLVGF07tMs": {
+                "title": "2022 : Nous voulons faire reculer la r\u00e9signation - #ProgrammeAEC",
+                "publishedAt": "2021-11-08T14:19:51Z",
+                "tags": [
+                    "m\u00e9lenchon",
+                    "programme",
+                    "twitch",
+                    "twitter",
+                    "action populaire",
+                    "avenir en commun",
+                    "pr\u00e9sidentielle",
+                    "\u00e9lection"
+                ],
+                "livebroadcast": "none",
+                "vidid": "tWLVGF07tMs",
+                "viewCount": "108253",
+                "likeCount": "4266",
+                "dislikeCount": "178",
+                "favoriteCount": "0",
+                "commentCount": "596",
+                "duration": "PT1H5M18S"
+            },
+            "3_it7iPcYgc": {
+                "title": "Je veux qu'on cesse d'abandonner les pauvres",
+                "publishedAt": "2021-11-08T09:14:29Z",
+                "tags": [
+                    "sdf",
+                    "pauvre",
+                    "prix",
+                    "nucl\u00e9aire",
+                    "essence",
+                    "gaz",
+                    "\u00e9lectricit\u00e9",
+                    "le pen",
+                    "zemmour",
+                    "montebourg"
+                ],
+                "livebroadcast": "none",
+                "vidid": "3_it7iPcYgc",
+                "viewCount": "172493",
+                "likeCount": "6563",
+                "dislikeCount": "365",
+                "favoriteCount": "0",
+                "commentCount": "1346",
+                "duration": "PT44M15S"
+            },
+            "zpVrtq3Vezk": {
+                "title": "Je reproche \u00e0 Macron de mentir",
+                "publishedAt": "2021-11-07T14:29:50Z",
+                "tags": [
+                    "macron",
+                    "cop26",
+                    "\u00e9conomie",
+                    "s\u00e9curit\u00e9"
+                ],
+                "livebroadcast": "none",
+                "vidid": "zpVrtq3Vezk",
+                "viewCount": "248782",
+                "likeCount": "7373",
+                "dislikeCount": "452",
+                "favoriteCount": "0",
+                "commentCount": "1479",
+                "duration": "PT40M39S"
+            },
+            "dn597MTfJU8": {
+                "title": "\u00c9conomie : mon programme face aux patrons",
+                "publishedAt": "2021-11-04T20:12:02Z",
+                "tags": [
+                    "\u00e9conomie",
+                    "programme",
+                    "m\u00e9lenchon",
+                    "entreprises",
+                    "patrons",
+                    "retraites",
+                    "nucl\u00e9aire",
+                    "smic",
+                    "recherche",
+                    "espace",
+                    "isf",
+                    "macron",
+                    "imp\u00f4ts",
+                    "\u00e9cologie"
+                ],
+                "livebroadcast": "none",
+                "vidid": "dn597MTfJU8",
+                "viewCount": "664092",
+                "likeCount": "13059",
+                "dislikeCount": "1235",
+                "favoriteCount": "0",
+                "commentCount": "3799",
+                "duration": "PT1H52M15S"
+            },
+            "LjGtVz5Z1T0": {
+                "title": "Seules les brutes s'habituent au pass sanitaire",
+                "publishedAt": "2021-11-04T09:19:37Z",
+                "tags": [
+                    "pass sanitaire",
+                    "libert\u00e9",
+                    "macron"
+                ],
+                "livebroadcast": "none",
+                "vidid": "LjGtVz5Z1T0",
+                "viewCount": "101977",
+                "likeCount": "5986",
+                "dislikeCount": "145",
+                "favoriteCount": "0",
+                "commentCount": "927",
+                "duration": "PT2M22S"
+            },
+            "VM-bm_bk46g": {
+                "title": "Pass sanitaire : absurde et dangereux",
+                "publishedAt": "2021-11-03T16:28:28Z",
+                "tags": [
+                    "pass sanitaire",
+                    "vaccin",
+                    "covid",
+                    "dangereux",
+                    "absurde",
+                    "confinement",
+                    "d\u00e9confinement"
+                ],
+                "livebroadcast": "none",
+                "vidid": "VM-bm_bk46g",
+                "viewCount": "142758",
+                "likeCount": "7969",
+                "dislikeCount": "204",
+                "favoriteCount": "0",
+                "commentCount": "1495",
+                "duration": "PT5M17S"
+            },
+            "Kv_Z0T88QUA": {
+                "title": "Je d\u00e9fends la langue fran\u00e7aise en Europe",
+                "publishedAt": "2021-11-03T10:22:33Z",
+                "tags": [
+                    "fran\u00e7ais",
+                    "anglais",
+                    "europe",
+                    "macron",
+                    "m\u00e9lenchon"
+                ],
+                "livebroadcast": "none",
+                "vidid": "Kv_Z0T88QUA",
+                "viewCount": "26554",
+                "likeCount": "2295",
+                "dislikeCount": "69",
+                "favoriteCount": "0",
+                "commentCount": "486",
+                "duration": "PT4M37S"
+            },
+            "wG2IcNFgPo8": {
+                "title": "Pour les jeunes : je propose une allocation d'autonomie de 1.063\u20ac / mois",
+                "publishedAt": "2021-11-02T18:41:31Z",
+                "tags": [
+                    "jeunes",
+                    "zemmour",
+                    "entreprises",
+                    "macron",
+                    "cop 26"
+                ],
+                "livebroadcast": "none",
+                "vidid": "wG2IcNFgPo8",
+                "viewCount": "88460",
+                "likeCount": "5011",
+                "dislikeCount": "262",
+                "favoriteCount": "0",
+                "commentCount": "1469",
+                "duration": "PT18M23S"
+            },
+            "vuXu5cd7aBY": {
+                "title": "Les p\u00f4les sont un enjeu g\u00e9opolitique pour la France",
+                "publishedAt": "2021-10-29T18:14:38Z",
+                "tags": [
+                    "p\u00f4les",
+                    "m\u00e9lenchon",
+                    "france",
+                    "p\u00f4le nord",
+                    "p\u00f4le sud"
+                ],
+                "livebroadcast": "none",
+                "vidid": "vuXu5cd7aBY",
+                "viewCount": "40608",
+                "likeCount": "2642",
+                "dislikeCount": "80",
+                "favoriteCount": "0",
+                "commentCount": "551",
+                "duration": "PT9M58S"
+            },
+            "RTvbHZ5dUG8": {
+                "title": "Essence : bloquons les prix, Total doit payer !",
+                "publishedAt": "2021-10-28T12:27:52Z",
+                "tags": [
+                    "essence",
+                    "total",
+                    "prix",
+                    "salaires",
+                    "s\u00e9curit\u00e9",
+                    "cannabis",
+                    "smic",
+                    "guyane"
+                ],
+                "livebroadcast": "none",
+                "vidid": "RTvbHZ5dUG8",
+                "viewCount": "182555",
+                "likeCount": "6218",
+                "dislikeCount": "302",
+                "favoriteCount": "0",
+                "commentCount": "1357",
+                "duration": "PT29M6S"
+            },
+            "nucZtcaTn-8": {
+                "title": "L\u2019\u00e9ducation est la cl\u00e9 de tout en Guyane",
+                "publishedAt": "2021-10-26T17:05:30Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "nucZtcaTn-8",
+                "viewCount": "45615",
+                "likeCount": "2802",
+                "dislikeCount": "102",
+                "favoriteCount": "0",
+                "commentCount": "455",
+                "duration": "PT1H3M11S"
+            },
+            "CZtoClFDtzE": {
+                "title": "Je d\u00e9fends la souverainet\u00e9 alimentaire",
+                "publishedAt": "2021-10-25T08:10:39Z",
+                "tags": [
+                    "guyane",
+                    "m\u00e9lenchon",
+                    "p\u00eache",
+                    "\u00e9cole",
+                    "scolarit\u00e9",
+                    "immigration"
+                ],
+                "livebroadcast": "none",
+                "vidid": "CZtoClFDtzE",
+                "viewCount": "57202",
+                "likeCount": "3395",
+                "dislikeCount": "110",
+                "favoriteCount": "0",
+                "commentCount": "380",
+                "duration": "PT7M53S"
+            },
+            "fdB-uwgH5Dc": {
+                "title": "\u00abChaque g\u00e9n\u00e9ration est un peuple nouveau\u00bb - Avec les lyc\u00e9ens de Saint-Laurent-du-Maroni en Guyane",
+                "publishedAt": "2021-10-24T18:35:21Z",
+                "tags": [
+                    "guyane",
+                    "\u00e9cole",
+                    "zemmour",
+                    "lyc\u00e9e",
+                    "r\u00e9volution",
+                    "r\u00e9publique"
+                ],
+                "livebroadcast": "none",
+                "vidid": "fdB-uwgH5Dc",
+                "viewCount": "90633",
+                "likeCount": "3886",
+                "dislikeCount": "128",
+                "favoriteCount": "0",
+                "commentCount": "684",
+                "duration": "PT1H29M24S"
+            },
+            "7ij46-AySf4": {
+                "title": "Intervention de Jean-Luc M\u00e9lenchon devant l'Assembl\u00e9e de Guyane - #MelenchonGuyane",
+                "publishedAt": "2021-10-22T18:44:20Z",
+                "tags": [
+                    "m\u00e9lenchon",
+                    "guyane",
+                    "serville",
+                    "espace",
+                    "ariane",
+                    "kourou"
+                ],
+                "livebroadcast": "none",
+                "vidid": "7ij46-AySf4",
+                "viewCount": "94198",
+                "likeCount": "3984",
+                "dislikeCount": "123",
+                "favoriteCount": "0",
+                "commentCount": "464",
+                "duration": "PT1H26M19S"
+            },
+            "riALjlQ12G4": {
+                "title": "Documentaire : Les coulisses de la pr\u00e9sidentielle 2022 - \u00c9pisode 5",
+                "publishedAt": "2021-10-20T15:59:12Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "riALjlQ12G4",
+                "viewCount": "65295",
+                "likeCount": "4230",
+                "dislikeCount": "122",
+                "favoriteCount": "0",
+                "commentCount": "756",
+                "duration": "PT43M27S"
+            },
+            "ySyRbPCC3Xc": {
+                "title": "Macron est le tire-fesses des riches",
+                "publishedAt": "2021-10-19T09:12:43Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "ySyRbPCC3Xc",
+                "viewCount": "322393",
+                "likeCount": "10058",
+                "dislikeCount": "594",
+                "favoriteCount": "0",
+                "commentCount": "2585",
+                "duration": "PT26M10S"
+            },
+            "cqSkARumJqQ": {
+                "title": "La victoire est possible - Meeting de Jean-Luc M\u00e9lenchon \u00e0 Reims",
+                "publishedAt": "2021-10-17T10:12:54Z",
+                "tags": [
+                    "m\u00e9lenchon",
+                    "meeting",
+                    "reims",
+                    "union populaire",
+                    "insoumis"
+                ],
+                "livebroadcast": "none",
+                "vidid": "cqSkARumJqQ",
+                "viewCount": "201528",
+                "likeCount": "9326",
+                "dislikeCount": "563",
+                "favoriteCount": "0",
+                "commentCount": "1855",
+                "duration": "PT1H55M28S"
+            },
+            "QHNaP5lVCxI": {
+                "title": "EN DIRECT : Suivez la Convention de L'Union Populaire - #ConventionPopulaire",
+                "publishedAt": "2021-10-16T17:47:46Z",
+                "tags": [
+                    "convention",
+                    "m\u00e9lenchon",
+                    "reims",
+                    "france insoumise",
+                    "union populaire"
+                ],
+                "livebroadcast": "none",
+                "vidid": "QHNaP5lVCxI",
+                "viewCount": "45476",
+                "likeCount": "2693",
+                "dislikeCount": "128",
+                "favoriteCount": "0",
+                "commentCount": "256",
+                "duration": "PT4H43M55S"
+            },
+            "OSnZzHiefvc": {
+                "title": "Essence : il faut bloquer les prix !",
+                "publishedAt": "2021-10-15T19:13:14Z",
+                "tags": [
+                    "essence",
+                    "prix",
+                    "diesel",
+                    "gasoil",
+                    "alimentation",
+                    "m\u00e9lenchon",
+                    "programme"
+                ],
+                "livebroadcast": "none",
+                "vidid": "OSnZzHiefvc",
+                "viewCount": "38827",
+                "likeCount": "2720",
+                "dislikeCount": "83",
+                "favoriteCount": "0",
+                "commentCount": "330",
+                "duration": "PT6M1S"
+            },
+            "u20OBY1vsF0": {
+                "title": "Si les milieux populaires votent, nous gagnons !",
+                "publishedAt": "2021-10-15T16:44:12Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "u20OBY1vsF0",
+                "viewCount": "154634",
+                "likeCount": "6111",
+                "dislikeCount": "338",
+                "favoriteCount": "0",
+                "commentCount": "1052",
+                "duration": "PT48M23S"
+            },
+            "mwndE-THyQk": {
+                "title": "#RDLS146 - OAS : l'extr\u00eame droite condamn\u00e9e / Sommet Afrique-France",
+                "publishedAt": "2021-10-14T16:04:57Z",
+                "tags": [
+                    "extr\u00eame droite",
+                    "macron",
+                    "afrique",
+                    "france"
+                ],
+                "livebroadcast": "none",
+                "vidid": "mwndE-THyQk",
+                "viewCount": "161643",
+                "likeCount": "9404",
+                "dislikeCount": "429",
+                "favoriteCount": "0",
+                "commentCount": "1031",
+                "duration": "PT32M20S"
+            },
+            "UW1OeYEj9Eo": {
+                "title": "Conf\u00e9rence de Jean-Luc M\u00e9lenchon \u00e0 Sciences Po Saint-Germain-en-Laye",
+                "publishedAt": "2021-10-13T19:34:22Z",
+                "tags": [
+                    "m\u00e9lenchon",
+                    "saint germain",
+                    "sciences po",
+                    "conf\u00e9rence",
+                    "nucl\u00e9aire",
+                    "europe",
+                    "r\u00e8gle verte"
+                ],
+                "livebroadcast": "none",
+                "vidid": "UW1OeYEj9Eo",
+                "viewCount": "164282",
+                "likeCount": "5849",
+                "dislikeCount": "283",
+                "favoriteCount": "0",
+                "commentCount": "689",
+                "duration": "PT2H11M40S"
+            },
+            "pvzNcE9QLi4": {
+                "title": "Europe : la France paye pour les \u00c9tats \u00e9go\u00efstes",
+                "publishedAt": "2021-10-13T10:53:39Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "pvzNcE9QLi4",
+                "viewCount": "39150",
+                "likeCount": "2385",
+                "dislikeCount": "75",
+                "favoriteCount": "0",
+                "commentCount": "327",
+                "duration": "PT3M41S"
+            },
+            "vq0vagLR7nE": {
+                "title": "Macron a d\u00e9vast\u00e9 le pays",
+                "publishedAt": "2021-10-07T07:05:47Z",
+                "tags": [
+                    "macron",
+                    "europe",
+                    "OTAN",
+                    "zemmour",
+                    "france 2",
+                    "ONU"
+                ],
+                "livebroadcast": "none",
+                "vidid": "vq0vagLR7nE",
+                "viewCount": "298499",
+                "likeCount": "9106",
+                "dislikeCount": "540",
+                "favoriteCount": "0",
+                "commentCount": "2069",
+                "duration": "PT10M30S"
+            },
+            "UNV272clOLY": {
+                "title": "Conf\u00e9rence de Jean-Luc M\u00e9lenchon \u00e0 Sciences Po Paris",
+                "publishedAt": "2021-10-06T19:18:55Z",
+                "tags": [
+                    "melenchon",
+                    "sciences po",
+                    "paris",
+                    "conf\u00e9rence"
+                ],
+                "livebroadcast": "none",
+                "vidid": "UNV272clOLY",
+                "viewCount": "218069",
+                "likeCount": "8412",
+                "dislikeCount": "504",
+                "favoriteCount": "0",
+                "commentCount": "1090",
+                "duration": "PT1H27M6S"
+            },
+            "hLdMu6RrYBY": {
+                "title": "Je propose un d\u00e9bat \u00e0 Macron",
+                "publishedAt": "2021-10-02T23:36:59Z",
+                "tags": [
+                    "zemmour",
+                    "religion",
+                    "macron",
+                    "europe",
+                    "agriculture",
+                    "gaz",
+                    "\u00e9lectricit\u00e9"
+                ],
+                "livebroadcast": "none",
+                "vidid": "hLdMu6RrYBY",
+                "viewCount": "486256",
+                "likeCount": "12663",
+                "dislikeCount": "1297",
+                "favoriteCount": "0",
+                "commentCount": "3857",
+                "duration": "PT37M49S"
+            },
+            "ijlD_PtoUDI": {
+                "title": "#RDLS145 - D\u00e9bat contre Zemmour / Prix de l\u2019\u00e9nergie / Urgence sociale",
+                "publishedAt": "2021-10-01T16:35:03Z",
+                "tags": [
+                    "zemmour",
+                    "d\u00e9bat",
+                    "immigration",
+                    "gaz",
+                    "\u00e9lectricit\u00e9"
+                ],
+                "livebroadcast": "none",
+                "vidid": "ijlD_PtoUDI",
+                "viewCount": "160816",
+                "likeCount": "11819",
+                "dislikeCount": "1026",
+                "favoriteCount": "0",
+                "commentCount": "1520",
+                "duration": "PT35M56S"
+            }
+        }
+    }
+}}

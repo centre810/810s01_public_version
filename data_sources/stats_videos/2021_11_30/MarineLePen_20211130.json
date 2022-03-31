@@ -1,0 +1,177 @@
+{ "dateRequete" : "2021/11/30", "candidat" : "Marine Le Pen" , "parti" : "Rassemblement national" , "courant" : "Extrême droite", "YoutubeChannel" : {
+    "UCU3z3px1_RCqYBwrs8LJVWg": {
+        "channel_info": {
+            "title": "Marine Le Pen",
+            "country": "FR",
+            "publishedAt": "2016-07-12T13:10:14Z",
+            "statistics": {
+                "viewCount": "5475253",
+                "subscriberCount": "51500",
+                "hiddenSubscriberCount": false,
+                "videoCount": "203"
+            },
+            "channelcategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "video_data": {
+            "_5exPuKvlhI": {
+                "title": "Vous rendre la France ! | Foire de la Sainte-Catherine \u00e0 Vesoul | M La France",
+                "publishedAt": "2021-11-28T16:08:34Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "_5exPuKvlhI",
+                "viewCount": "4379",
+                "likeCount": "490",
+                "dislikeCount": "14",
+                "favoriteCount": "0",
+                "commentCount": "108",
+                "duration": "PT1M15S"
+            },
+            "7n88A8qPxnI": {
+                "title": "Conf\u00e9rence de presse \u00e0 Vesoul | M La France",
+                "publishedAt": "2021-11-26T16:48:03Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "7n88A8qPxnI",
+                "viewCount": "7885",
+                "likeCount": "600",
+                "dislikeCount": "20",
+                "favoriteCount": "0",
+                "commentCount": "91",
+                "duration": "PT32M50S"
+            },
+            "400Ji56Wlro": {
+                "title": "Journ\u00e9e internationale de lutte contre les violences faites aux femmes | M La France",
+                "publishedAt": "2021-11-25T18:00:03Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "400Ji56Wlro",
+                "viewCount": "2525",
+                "likeCount": "369",
+                "dislikeCount": "9",
+                "favoriteCount": "0",
+                "commentCount": "74",
+                "duration": "PT1M24S"
+            },
+            "9RxwfmP5Xno": {
+                "title": "Marseille : je ferai la guerre aux voyous ! | M La France",
+                "publishedAt": "2021-11-22T17:08:55Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "9RxwfmP5Xno",
+                "viewCount": "5698",
+                "likeCount": "494",
+                "dislikeCount": "16",
+                "favoriteCount": "0",
+                "commentCount": "102",
+                "duration": "PT2M35S"
+            },
+            "cTyBRmKm6qc": {
+                "title": "Discours de Marine Le Pen \u00e0 Marseille | M La France",
+                "publishedAt": "2021-11-22T16:17:09Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "cTyBRmKm6qc",
+                "viewCount": "13803",
+                "likeCount": "775",
+                "dislikeCount": "41",
+                "favoriteCount": "0",
+                "commentCount": "178",
+                "duration": "PT22M40S"
+            },
+            "rsrUYFDDRwU": {
+                "title": "M l'entretien #04 | M La France",
+                "publishedAt": "2021-11-17T16:59:14Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "rsrUYFDDRwU",
+                "viewCount": "10577",
+                "likeCount": "704",
+                "dislikeCount": "30",
+                "favoriteCount": "0",
+                "commentCount": "196",
+                "duration": "PT36M11S"
+            },
+            "0WGuvSx97dw": {
+                "title": "Vive l'industrie fran\u00e7aise ! | Visite au Salon du Made in France | M La France",
+                "publishedAt": "2021-11-16T18:00:55Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "0WGuvSx97dw",
+                "viewCount": "4235",
+                "likeCount": "401",
+                "dislikeCount": "18",
+                "favoriteCount": "0",
+                "commentCount": "86",
+                "duration": "PT9M32S"
+            },
+            "1UlKmDMZOz4": {
+                "title": "Bayeux : hommage au Lib\u00e9rateur de la France | M La France",
+                "publishedAt": "2021-11-14T11:19:52Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "1UlKmDMZOz4",
+                "viewCount": "1814",
+                "likeCount": "220",
+                "dislikeCount": "15",
+                "favoriteCount": "0",
+                "commentCount": "38",
+                "duration": "PT50S"
+            },
+            "7X9NxJsUTDQ": {
+                "title": "Message pour les six ans de l'attentat du Bataclan | M La France",
+                "publishedAt": "2021-11-13T09:48:49Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "7X9NxJsUTDQ",
+                "viewCount": "5129",
+                "likeCount": "545",
+                "dislikeCount": "19",
+                "favoriteCount": "0",
+                "commentCount": "140",
+                "duration": "PT3M29S"
+            },
+            "ZVH9HJoSfjg": {
+                "title": "C\u00e9r\u00e9monies du 11 novembre \u00e0 H\u00e9nin-Beaumont | Allocution de Marine Le Pen",
+                "publishedAt": "2021-11-12T07:23:39Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "ZVH9HJoSfjg",
+                "viewCount": "2690",
+                "likeCount": "288",
+                "dislikeCount": "6",
+                "favoriteCount": "0",
+                "commentCount": "52",
+                "duration": "PT7M55S"
+            },
+            "7SU5kyuWmVI": {
+                "title": "Allocution de Marine Le Pen \u00e0 Bayeux (09/11/2021) |\u00a0M la France",
+                "publishedAt": "2021-11-09T13:57:40Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "7SU5kyuWmVI",
+                "viewCount": "8897",
+                "likeCount": "578",
+                "dislikeCount": "40",
+                "favoriteCount": "0",
+                "commentCount": "199",
+                "duration": "PT15M25S"
+            },
+            "mGE0-Glh0MU": {
+                "title": "M l'entretien #03 | 04/11/2021 | M la France",
+                "publishedAt": "2021-11-04T17:00:45Z",
+                "tags": [],
+                "livebroadcast": "none",
+                "vidid": "mGE0-Glh0MU",
+                "viewCount": "17478",
+                "likeCount": "904",
+                "dislikeCount": "53",
+                "favoriteCount": "0",
+                "commentCount": "284",
+                "duration": "PT33M24S"
+            }
+        }
+    }
+}}

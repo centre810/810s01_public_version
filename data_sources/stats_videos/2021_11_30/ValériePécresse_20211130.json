@@ -1,0 +1,19 @@
+{ "dateRequete" : "2021/11/30", "candidat" : "Valérie Pécresse" , "parti" : "Soyons libres " , "courant" : "droite", "YoutubeChannel" : {
+    "UCXAKlEXGwoavQuOMaNBeaXw": {
+        "channel_info": {
+            "title": "Val\u00e9rie P\u00e9cresse",
+            "country": "FR",
+            "publishedAt": "2015-01-25T23:00:12Z",
+            "statistics": {
+                "viewCount": "119608",
+                "hiddenSubscriberCount": true,
+                "videoCount": "296"
+            },
+            "channelcategories": [
+                "https://en.wikipedia.org/wiki/Politics",
+                "https://en.wikipedia.org/wiki/Society"
+            ]
+        },
+        "video_data": {}
+    }
+}}
